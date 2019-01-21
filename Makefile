@@ -5,4 +5,10 @@ debug:
 	hugo server -D
 
 deploy:
-	./deploy.sh
+	hugo --destination docs/
+	git add docs/
+	git commit -m "Update live site"
+	git push
+
+update-theme:
+	git submodule update --remote --merge

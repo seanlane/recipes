@@ -3,10 +3,9 @@ disablePathToLower: true
 languageCode: en-us
 title: Lane Recipes
 theme: gochowdown
-languagecode: en
 googleAnalytics: 
 defaultcontentlanguage: en
-paginate: 10
+paginate: 20
 canonifyurls: true
 pygmentsstyle: monokai
 pygmentscodefences: true
@@ -30,9 +29,16 @@ menu:
     - name: Home
       weight: 1
       url: /
-    - name: Resume
+    - name: Category
       weight: 2
-      url: /resume/
-    - name: Posts
+      url: /category/
+    - name: Cuisine
       weight: 3
-      url: /posts/
+      url: /cuisine/
+    - name: Tags
+      weight: 4
+      url: /tags/
+taxonomies:
+  category: category
+  cusine: cuisine
+  tag: tags
