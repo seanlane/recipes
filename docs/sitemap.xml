@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://recipes.lane.sh/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/5-cheese-mac-n-cheese/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/american/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/arroz-chaufa/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/asian/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/asian/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/baked-sweet-chili-garlic-popcorn-chicken/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/bananas-in-coconut-cream/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/beef/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/belgian-waffles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/best-big-fat-chewy-chocolate-chip-cookie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/blondies/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/breakfast/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/breakfast/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/chicken-fried-steak/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/chile-verde/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/chimichurri/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/classic-lasagna/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/creamy-garlic-parmesan-chicken/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/crock-pot-red-beans-and-rice/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/deep-fried-pizza-doughnuts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/deep-fried-pizza-dough/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/deep-fried-pizza-filling/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/dessert/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/dessert-chocolate/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/dinner/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/easy-crockpot-sriracha-honey-chicken-wings/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/easy-pancakes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/faux-jambalaya/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/fettuccine-alfredo-with-grilled-chicken/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/french-toast/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/fun/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/garlic-aioli/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/garlic-noodles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/ginger-chicken-with-garlic-noodles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/graham-cracker-crust/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/grain/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/grilled-chicken-and-avocado-street-tacos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/healthy-roasted-chicken-and-vegetables/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/hummus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/homemade-hummus-and-pita-chips/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/pita-chips/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/tahini/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/indian/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/italian/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/kielbasa-and-cabbage/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/lemon-garlic-asparagus-pasta/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/mashed-potatoes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/mexican/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/mission/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/mmm-mmm-better-brownies/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/muttis-chicken/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/muttis-chicken-and-gravy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/muttis-gravy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/nite-bite-brownies/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/party/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/pasta/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/pepperoncini-pork/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/pork/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/poultry/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/poultry/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/quick-and-easy-feijoada/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/ranch-chicken-rollups/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/red-berry-dessert-topping/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/red-berry-tart/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/red-thai-curry/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/rice/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/rice/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/roasted-butternut-squash/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/sandwich/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/sauce/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/sauces/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/seafood/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/side-vegetable/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/sides/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/simply-grilled-chicken-breasts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/skillet-pineapple-bbq-chicken/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/skinny-fettuccine-alfredo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/slow-cooker/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/slow-cooker-tikka-masala/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/snack/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/spaghetti-sauce/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/sriracha-buttered-shrimp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/sriracha-egg-salad/sriracha-egg-salad/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/sticky-ginger-soy-glazed-chicken/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/sugar-baby-porkchops/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/thai/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/thai/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/thai-chicken/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/vanilla-custard-filling/</loc>
+  </url>
+  
+</urlset>

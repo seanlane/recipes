@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pork on Lane Recipes</title>
+    <link>https://recipes.lane.sh/category/pork/</link>
+    <description>Recent content in Pork on Lane Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://recipes.lane.sh/category/pork/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pepperonchini Pork</title>
+      <link>https://recipes.lane.sh/recipes/pepperoncini-pork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/pepperoncini-pork/</guid>
+      <description>Super simple, super flavorful, super cheap. One of my favorites to make as a poor college student as it&amp;rsquo;s two ingredients and gives me delicious meals for a week plus!
+If anyone&amp;rsquo;s interested in how I went about constructing this sandwich, here it goes!
+I actually cooked the pork yesterday so this is what I did with some of the leftovers. Usually I just go with the hoagie and provolone combo, but after working in the heat all day today I was craving something with a little more umph and things that are bad for me.</description>
+    </item>
+    
+    <item>
+      <title>Sugar Baby Porkchops</title>
+      <link>https://recipes.lane.sh/recipes/sugar-baby-porkchops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/sugar-baby-porkchops/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
