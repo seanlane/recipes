@@ -5,6 +5,7 @@ debug:
 	hugo server -D
 
 deploy:
+	rm -r docs/
 	hugo --destination docs/
 	git add docs/
 	git commit -m "Update live site"
