@@ -3,13 +3,12 @@ layout: recipe
 title:  "Homemade Tahini"
 image: tahini.jpg
 imagecredit:
-dateAdded: 20180121
+date: 2018-01-21
 
 authorName: Adam
 authorURL: 
 sourceName: Inspired Taste
 sourceURL: http://www.inspiredtaste.net/26901/easy-tahini-recipe/
-category: 
 yield: 4
 prepTime: 10
 cookTime: 5

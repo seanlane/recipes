@@ -3,13 +3,16 @@ layout: recipe
 title:  "Crock Pot Red Beans and Rice"
 image: crock-pot-red-beans-and-rice.jpg
 imagecredit: https://www.gimmesomeoven.com/crock-pot-red-beans-and-rice/
-dateAdded: 20170316
+date: 2017-03-16
 
 authorName: 
 authorURL: 
 sourceName: 
 sourceURL: 
-category: Grain
+category: dinner
+tags:
+  - rice
+  - slow cooker
 yield: 8
 prepTime: 15 
 cookTime: 420

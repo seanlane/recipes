@@ -3,13 +3,16 @@ layout: recipe
 title:  "Baked Sweet Chili Garlic Popcorn Chicken"
 image: baked-sweet-chili-garlic-popcorn-chicken.jpg
 imagecredit: http://hostthetoast.com/baked-sweet-chili-garlic-popcorn-chicken/
-dateAdded: 20170316
+date: 2017-03-16
 
 authorName: Morgan Eisenburg
 authorURL: http://hostthetoast.com/author/morgan/
 sourceName: Host the Toast
 sourceURL: http://hostthetoast.com/baked-sweet-chili-garlic-popcorn-chicken/
-category: Asian
+category: dinner
+tags:
+  - asian
+  - poultry
 yield: 4
 prepTime: 25 
 cookTime:  18

@@ -3,16 +3,15 @@ layout: recipe
 title:  "Homemade Hummus"
 image: hummus.jpg
 imagecredit:
-dateAdded: 20180121
+date: 2018-01-21
 
 authorName: Joanne
 authorURL: 
 sourceName: Inspired Taste
 sourceURL: http://www.inspiredtaste.net/15938/easy-and-smooth-hummus-recipe/#itr-recipe-15938
-category: 
 yield: 6
 prepTime: 10
-cookTime: 
+cookTime: 0
 
 ingredients:
 - 1 (15-ounce) can chickpeas or 1 1/2 cups (250 grams) cooked chickpeas

@@ -3,13 +3,15 @@ layout: recipe
 title:  "Sugar Baby Porkchops"
 image: 
 imagecredit: 
-dateAdded: 20170316
-
+date: 2017-03-16
 authorName: David Bench
 authorURL: 
 sourceName: Deseret News
 sourceURL: https://www.deseretnews.com/article/705294727/Recipe-of-the-week-Sugar-Baby-Pork-Chops.html?pg=all
-category: Pork
+category: dinner
+cuisine: American
+tags:
+  - pork
 yield: 6
 prepTime: 15
 cookTime: 30

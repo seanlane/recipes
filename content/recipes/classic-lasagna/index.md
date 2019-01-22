@@ -3,13 +3,17 @@ layout: recipe
 title:  "Classic Lasagna"
 image: classic-lasagna.jpg
 imagecredit:
-dateAdded: 20180102
+date: 2018-01-02
 
 authorName: Terri
 authorURL: www.greatgrubdelicioustreats.com
 sourceName: "Great Grub, Delicious Treats"
 sourceURL: http://www.greatgrubdelicioustreats.com/classic-lasagna/
-category: Italian
+category: dinner
+cuisine: Italian
+tags:
+  - Italian
+  - family
 yield: 10
 prepTime: 90
 cookTime: 60

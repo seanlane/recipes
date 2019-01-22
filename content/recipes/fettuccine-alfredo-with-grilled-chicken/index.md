@@ -3,13 +3,19 @@ layout: recipe
 title:  "Fettuccini Alfredo with Grilled Chicken"
 image: 
 imagecredit: 
-dateAdded: 20170316
+date: 2017-03-16
 
 authorName: 
 authorURL: 
 sourceName: 
 sourceURL: 
-category: Pasta
+category: dinner
+cuisine: italian
+tags:
+  - poultry
+  - pasta
+  - Grill
+  - family
 yield: 4
 prepTime: 
 cookTime: 

@@ -3,13 +3,12 @@ layout: recipe
 title:  "Sticky Ginger Soy Glazed Chicken"
 image: sticky-ginger-soy-glazed-chicken.jpg
 imagecredit: https://www.budgetbytes.com/2016/07/sticky-ginger-soy-glazed-chicken/
-dateAdded: 20170920
+date: 2017-09-20
 
 authorName: Beth M.
 authorURL: 
 sourceName: Budget Bytes
 sourceURL: https://www.budgetbytes.com/2016/07/sticky-ginger-soy-glazed-chicken/
-category: 
 yield: 4
 prepTime: 40
 cookTime: 20

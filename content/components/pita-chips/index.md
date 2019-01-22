@@ -3,13 +3,12 @@ layout: recipe
 title:  "Homemade Pita Chips"
 image: pita-chips.jpg
 imagecredit:
-dateAdded: 20180121
+date: 2018-01-21
 
 authorName: Ina Garten
 authorURL: http://www.foodnetwork.com/profiles/talent/ina-garten
 sourceName: Food Network
 sourceURL: http://www.foodnetwork.com/recipes/ina-garten/toasted-pita-chips-recipe-1922869
-category: 
 yield: 8
 prepTime: 5
 cookTime: 10

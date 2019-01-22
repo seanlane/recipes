@@ -2,14 +2,15 @@
 layout: recipe
 title:  "Bananas in Coconut Cream"
 image: bananas-in-coconut-cream.jpg
-imagecredit: http://www.food.com/recipe/banana-in-coconut-cream-136432
-dateAdded: 20170316
+imagecredit: https://www.geniuskitchen.com/recipe/banana-in-coconut-cream-136432
+date: 2017-03-16
 
-authorName:
-authorURL: 
+authorName: Rita L.
+authorURL: https://www.geniuskitchen.com/user/58104
 sourceName: Food.com
-sourceURL: http://www.food.com/recipe/banana-in-coconut-cream-136432
+sourceURL: https://www.geniuskitchen.com/recipe/banana-in-coconut-cream-136432
 category: Dessert
+
 yield: 6
 prepTime: 10
 cookTime: 5

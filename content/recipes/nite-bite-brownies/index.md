@@ -3,13 +3,16 @@ layout: recipe
 title:  "Nite Bites Brownies"
 image: 
 imagecredit: 
-dateAdded: 20180418
+date: 2018-04-18
 
 authorName: Trevor
 authorURL: 
 sourceName: 
 sourceURL: 
-category: Dessert, Chocolate
+category: dessert
+tags:
+  - dessert
+  - chocolate
 yield: 8
 prepTime: 15
 cookTime: 25

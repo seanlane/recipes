@@ -3,9 +3,8 @@ layout: recipe
 title:  "Thai Chicken"
 image: thai-chicken.jpg
 imagecredit: 
-dateAdded: 20170528
+date: 2017-05-28
 YouTubeID: 
-
 authorName: Lauren Allen
 authorURL: 
 sourceName: Tastes Better From Scratch

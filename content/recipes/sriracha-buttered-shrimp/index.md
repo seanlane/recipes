@@ -3,13 +3,17 @@ layout: recipe
 title:  "Sriracha Buttered Shrimp"
 image: sriracha-buttered-shrimp.jpg
 imagecredit: https://www.bonappetit.com/recipe/sriracha-buttered-shrimp
-dateAdded: 20170316
+date: 2017-03-16
 
 authorName: Sean Baker Gather
 authorURL: 
 sourceName: bon appétit
 sourceURL: https://www.bonappetit.com/recipe/sriracha-buttered-shrimp
-category: Seafood
+category: dinner
+cuisine: american
+tags:
+  - seafood
+  - sriracha
 yield: 4
 prepTime: 
 cookTime: 

@@ -3,13 +3,17 @@ layout: recipe
 title:  "Ranch Chicken Rollups"
 image: ranch-chicken-rollups.jpg
 imagecredit: http://www.lifewiththecrustcutoff.com/ranch-chicken-club-roll-ups/2/
-dateAdded: 20170316
+date: 2017-03-16
 
 authorName: Parrish
 authorURL: http://www.lifewiththecrustcutoff.com/author/fangedangel32/
 sourceName: Life with the Crust Cut Off
 sourceURL: http://www.lifewiththecrustcutoff.com/ranch-chicken-club-roll-ups/2/
-category: Poultry
+category: entree
+cuisine: american
+tags:
+  - poultry
+  - fun
 yield: 4
 prepTime: 15
 cookTime: 20

@@ -3,13 +3,16 @@ layout: recipe
 title: "French Toast" 
 image: french-toast.jpg
 imagecredit: 
-dateAdded: 20170930
+date: 2017-09-30
 
 authorName: 
 authorURL: 
 sourceName: 
 sourceURL: 
-category: Breakfast 
+category: Breakfast
+cuisine: american
+tags:
+  - breakfast
 yield: 4
 prepTime: 
 cookTime: 

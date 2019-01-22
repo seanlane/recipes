@@ -3,13 +3,16 @@ layout: recipe
 title:  "Sriracha Egg Salad"
 image: sriracha-egg-salad.jpg
 imagecredit:
-dateAdded: 20170630
+date: 2017-06-30
 
 authorName: Beth M.
 authorURL: 
 sourceName: Budget Bytes
 sourceURL: https://www.budgetbytes.com/2017/03/sriracha-egg-salad/
-category: sandwich
+category: snack
+cuisine: american
+tags:
+  - sandwich
 yield: 4
 prepTime: 10
 cookTime: 20

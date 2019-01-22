@@ -3,13 +3,18 @@ layout: recipe
 title:  "Skillet Pineapple BBQ Chicken"
 image: skillet-pineapple-bbq-chicken.jpg
 imagecredit: https://www.budgetbytes.com/2017/09/skillet-pineapple-bbq-chicken/ 
-dateAdded: 20171008
+date: 2017-10-08
 
 authorName: 
 authorURL: 
 sourceName: Budget Bytes
 sourceURL: https://www.budgetbytes.com/2017/09/skillet-pineapple-bbq-chicken/ 
-category: Poultry
+category: dinner
+cuisine: american
+tags:
+  - poultry
+  - BBQ
+  - pineapple
 yield: 4
 prepTime: 5
 cookTime: 30

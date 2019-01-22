@@ -3,17 +3,19 @@ layout: recipe
 title:  "Arroz Chaufa"
 image: arroz-chaufa.jpg
 imagecredit: https://www.thespruce.com/arroz-chaufa-chinese-peruvian-fried-rice-3029276
-dateAdded: 20170316
-
+date: 2017-03-16
 authorName: Marian Blazes
 authorURL: https://www.thespruce.com/marian-blazes-3028759
 sourceName: the spruce
 sourceURL: https://www.thespruce.com/arroz-chaufa-chinese-peruvian-fried-rice-3029276
-category: Mission
+category: entree
+cuisine: Peruvian
+tags:
+  - mission
+  - rice
 yield: 6-8
 prepTime: 10
 cookTime: 10
-
 ingredients:
 - 4 tablespoons vegetable oil (or sesame oil)
 - 2 eggs

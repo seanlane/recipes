@@ -3,13 +3,15 @@ layout: recipe
 title:  "Mutti's Chicken"
 image:
 imagecredit: 
-dateAdded: 20170316
+date: 2017-03-16
 
 authorName: Grandma Mutti
 authorURL: 
 sourceName: 
 sourceURL: 
-category: Poultry
+category: dinner
+tags:
+  - poultry
 yield: 6
 prepTime: 15 
 cookTime: 25

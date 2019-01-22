@@ -3,7 +3,7 @@ layout: recipe
 title:  "Mutti's Gravy"
 image:
 imagecredit: 
-dateAdded: 20170316
+date: 2017-03-16
 
 authorName: Grandma Mutti
 authorURL: 

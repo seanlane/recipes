@@ -3,14 +3,19 @@ layout: recipe
 title:  "Red Thai Curry"
 image: 
 imagecredit:
-dateAdded: 20190104
+date: 2019-01-04
 YouTubeID: 
 
 authorName: 
 authorURL: 
 sourceName: 
 sourceURL: 
-category: Thai
+category: entree
+cuisine: Thai
+tags:
+  - rice
+  - poultry
+  - asian
 yield: 4
 prepTime: 30
 cookTime: 30
@@ -20,7 +25,7 @@ ingredients:
 - 1/2 pound of potatoes, cut into 1/2 inch pieces
 - 1-3 Teaspoons of red curry paste
 - 1 14 oz can of coconut milk
-- 1 & 1/2  cups of water
+- 1 1/2  cups of water
 - 1-2 red bell pepper, sliced into strips
 - 2 Tablespoons of fish sauce
 - 2 Teaspoons of rice vinegar (not strictly necessary)

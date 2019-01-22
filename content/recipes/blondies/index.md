@@ -3,13 +3,15 @@ layout: recipe
 title:  "Blondies"
 image: blondies.png
 imagecredit: 
-dateAdded: 20170923
+date: 2017-09-23
 
 authorName:
 authorURL: 
 sourceName: 
 sourceURL: 
 category: Dessert
+tags:
+  - chocolate
 yield: 16
 prepTime: 15
 cookTime: 30

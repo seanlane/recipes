@@ -3,13 +3,18 @@ layout: recipe
 title:  "Chile Verde"
 image: chile-verde.png
 imagecredit: 
-dateAdded: 20170316
+date: 2017-03-16
 
 authorName: Marc Matsumoto
 authorURL: https://marcmatsumoto.com/
 sourceName: No Recipes
 sourceURL: https://norecipes.com/chile-verde
-category: Mexican
+category: dinner
+cuisine: Mexican
+tags:
+  - pork
+  - Mexican
+  - family
 yield: 6
 prepTime: 60
 cookTime: 240+

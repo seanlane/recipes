@@ -3,14 +3,19 @@ layout: recipe
 title:  "Slow Cooker Tikka Masala"
 image: slow-cooker-tikka-masala.jpg
 imagecredit:
-dateAdded: 20170112
+date: 2017-01-12
 YouTubeID: 
 
 authorName: Emma Christensen
 authorURL: https://www.thekitchn.com/authors/echristensen
 sourceName: The Kitchn
 sourceURL: https://www.thekitchn.com/recipe-slow-cooker-chicken-tikka-masala-recipes-from-the-kitchn-211284
-category: Indian
+category: dinner
+cuisine: indian
+tags:
+  - chicken
+  - indian
+  - slow cooker
 yield: 6
 prepTime: 15
 cookTime: 45

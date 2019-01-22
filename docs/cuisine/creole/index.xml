@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creole on Lane Recipes</title>
+    <link>https://recipes.lane.sh/cuisine/creole/</link>
+    <description>Recent content in Creole on Lane Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://recipes.lane.sh/cuisine/creole/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Faux Jambalaya</title>
+      <link>https://recipes.lane.sh/recipes/faux-jambalaya/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/faux-jambalaya/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

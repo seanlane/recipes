@@ -3,13 +3,15 @@ layout: recipe
 title:  "Kielbasa and Cabbage"
 image: kielbasa-and-cabbage.jpg
 imagecredit: http://www.food.com/recipe/kielbasa-cabbage-and-onions-low-carb-slow-cooker-crock-pot-323548
-dateAdded: 20170316
+date: 2017-03-16
 
 authorName: 
 authorURL: 
 sourceName: Food.com
 sourceURL: http://www.food.com/recipe/kielbasa-cabbage-and-onions-low-carb-slow-cooker-crock-pot-323548
-category:
+category: dinner
+tags:
+  - slow cooker
 yield: 6
 prepTime: 10
 cookTime: 480 (240?)

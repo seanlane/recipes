@@ -6,41 +6,195 @@
     <description>Recent content in Tags on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 16 Mar 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://recipes.lane.sh/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Argentine</title>
+      <link>https://recipes.lane.sh/tags/argentine/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/argentine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Asian</title>
       <link>https://recipes.lane.sh/tags/asian/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://recipes.lane.sh/tags/asian/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Bbq</title>
+      <link>https://recipes.lane.sh/tags/bbq/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/bbq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beef</title>
+      <link>https://recipes.lane.sh/tags/beef/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/beef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Breakfast</title>
       <link>https://recipes.lane.sh/tags/breakfast/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://recipes.lane.sh/tags/breakfast/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Chicken</title>
+      <link>https://recipes.lane.sh/tags/chicken/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/chicken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chocolate</title>
+      <link>https://recipes.lane.sh/tags/chocolate/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/chocolate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cookies</title>
+      <link>https://recipes.lane.sh/tags/cookies/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/cookies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dessert</title>
+      <link>https://recipes.lane.sh/tags/dessert/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/dessert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Family</title>
+      <link>https://recipes.lane.sh/tags/family/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fruit</title>
+      <link>https://recipes.lane.sh/tags/fruit/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/fruit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fun</title>
       <link>https://recipes.lane.sh/tags/fun/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://recipes.lane.sh/tags/fun/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Grill</title>
+      <link>https://recipes.lane.sh/tags/grill/</link>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/grill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indian</title>
+      <link>https://recipes.lane.sh/tags/indian/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/indian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italian</title>
+      <link>https://recipes.lane.sh/tags/italian/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/italian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mexican</title>
+      <link>https://recipes.lane.sh/tags/mexican/</link>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/mexican/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mission</title>
+      <link>https://recipes.lane.sh/tags/mission/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/mission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pasta</title>
+      <link>https://recipes.lane.sh/tags/pasta/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/pasta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pineapple</title>
+      <link>https://recipes.lane.sh/tags/pineapple/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/pineapple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pork</title>
+      <link>https://recipes.lane.sh/tags/pork/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/pork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Poultry</title>
       <link>https://recipes.lane.sh/tags/poultry/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://recipes.lane.sh/tags/poultry/</guid>
       <description></description>
@@ -49,27 +203,72 @@
     <item>
       <title>Rice</title>
       <link>https://recipes.lane.sh/tags/rice/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://recipes.lane.sh/tags/rice/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Side Vegetable</title>
-      <link>https://recipes.lane.sh/tags/side-vegetable/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Sandwich</title>
+      <link>https://recipes.lane.sh/tags/sandwich/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/tags/side-vegetable/</guid>
+      <guid>https://recipes.lane.sh/tags/sandwich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seafood</title>
+      <link>https://recipes.lane.sh/tags/seafood/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/seafood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Side</title>
+      <link>https://recipes.lane.sh/tags/side/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/side/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slow Cooker</title>
+      <link>https://recipes.lane.sh/tags/slow-cooker/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/slow-cooker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snack</title>
       <link>https://recipes.lane.sh/tags/snack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://recipes.lane.sh/tags/snack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sriracha</title>
+      <link>https://recipes.lane.sh/tags/sriracha/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/sriracha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vegetable</title>
+      <link>https://recipes.lane.sh/tags/vegetable/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/vegetable/</guid>
       <description></description>
     </item>
     

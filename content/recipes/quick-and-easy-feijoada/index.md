@@ -3,13 +3,17 @@ layout: recipe
 title:  "Quick and Easy Feijoada"
 image: quick-and-easy-feijoada.jpg
 imagecredit: https://www.playpartyplan.com/quick-and-easy-feijoada-recipe/
-dateAdded: 20171125
+date: 2017-11-25
 
 authorName: Britni
 authorURL: https://www.playpartyplan.com
 sourceName: Play Party Plan
 sourceURL: https://www.playpartyplan.com/quick-and-easy-feijoada-recipe/
-category: Rice
+category: entree
+cuisine: brazilian
+tags:
+  - rice
+  - slow cooker
 yield: 6
 prepTime: 15
 cookTime: 15

@@ -3,13 +3,17 @@ layout: recipe
 title:  "5 Cheese Mac N' Cheese"
 image: 5-cheese-mac-n-cheese.jpg
 imagecredit:
-dateAdded: 20170917
-YouTubeID: F2SYDXV1W1w
+date: 2017-09-17
+YouTubeID: # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: Lawrence Page
 authorURL: https://twitter.com/lpthechef
 sourceName: BuzzFeed
 sourceURL: https://www.buzzfeed.com/alvinzhou/this-five-cheese-mac-n-cheese-is-literally-everything-youve?utm_term=.swYYL4kzm#.aivXOxAkp
-category: Pasta
+category: entree
+cuisine: Italian
+tags:
+  - pasta
+  - family
 yield: 8
 prepTime: 15
 cookTime: 45

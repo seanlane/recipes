@@ -3,13 +3,17 @@ layout: recipe
 title:  "Mutti's Chicken & Gravy"
 image: 
 imagecredit: 
-dateAdded: 20170316
+date: 2017-03-16
 
 authorName: Grandma Mutti
 authorURL: 
 sourceName: 
 sourceURL: 
-category: Poultry
+category: dinner
+cuisine: american
+tags:
+  - poultry
+  - family
 yield: 6
 prepTime:  
 cookTime: 

@@ -3,14 +3,17 @@ layout: recipe
 title:  "Roasted Butternut Squash"
 image: roasted-butternut-squash.jpg
 imagecredit:
-dateAdded: 20180508
+date: 2018-05-08
 YouTubeID: 
 
 authorName: MChele
 authorURL: https://www.allrecipes.com/cook/3867400/
 sourceName: Allrecipes
 sourceURL: https://www.allrecipes.com/recipe/229733/simple-roasted-butternut-squash/
-tags: side, vegetable
+category: side
+tags: 
+  - side
+  - vegetable
 yield: 4
 prepTime: 15
 cookTime: 25

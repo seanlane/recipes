@@ -3,13 +3,17 @@ layout: recipe
 title:  Spaghetti Sauce
 image: spaghetti.jpg
 imagecredit: 
-dateAdded: 20170922
+date: 2017-09-22
 
 authorName:
 authorURL: 
 sourceName: 
 sourceURL: https://imgur.com/a/arRjB
-category: pasta
+category: entree
+cuisine: Italian
+tags:
+  - pasta
+  - slow cooker
 yield: 6
 prepTime: 15
 cookTime: 300
@@ -34,7 +38,7 @@ ingredients:
 - Pasta
 
 directions:
-- Put everything in the crockpot except for the onions, garlic, and meat.
+- Put everything in the slow cooker except for the onions, garlic, and meat.
 - Add _just enough_ water to each can to rinse it out and add to the crockpot.
 - Saute onions and garlic in olive oil until clear and add to crockpot.
 - Saute beef (and optionally Italian sausage) in the onion pan and drain well. Add to crockpot.

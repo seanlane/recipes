@@ -3,13 +3,16 @@ layout: recipe
 title:  "Mmm Mmm Better Brownies"
 image: mmm-mmm-better-brownies.jpg
 imagecredit: http://allrecipes.com/recipe/10707/mmm-mmm-better-brownies/
-dateAdded: 20170316
+date: 2017-03-16
 
 authorName: Sarah
 authorURL: 
 sourceName: All Recipes
 sourceURL: http://allrecipes.com/recipe/10707/mmm-mmm-better-brownies/print/?recipeType=Recipe&servings=16&isMetric=false
 category: Dessert
+tags:
+  - Dessert
+  - chocolate
 yield: 8
 prepTime: 15
 cookTime: 25

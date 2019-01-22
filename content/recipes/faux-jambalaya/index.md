@@ -3,14 +3,19 @@ layout: recipe
 title:  "Faux Jambalaya"
 image: faux-jambalaya.jpg
 imagecredit:
-dateAdded: 20180225
+date: 2018-02-25
 YouTubeID: 
 
 authorName: /u/jegodin
 authorURL: https://www.reddit.com/user/jegodin
 sourceName: Reddit /r/slowcooking
 sourceURL: https://www.reddit.com/r/slowcooking/comments/7t7dgh/jambalaya_see_you_guys_in_4_hours/dtaj92y/
-category: Slow Cooker
+category: dinner
+cuisine: Creole
+tags:
+  - Slow Cooker
+  - poultry
+  - rice
 yield: 8
 prepTime: 15
 cookTime: 240

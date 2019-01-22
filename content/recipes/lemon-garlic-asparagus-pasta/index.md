@@ -3,13 +3,16 @@ layout: recipe
 title:  "Lemon Garlic Asparagus Pasta"
 image: lemon-garlic-asparagus-pasta.jpg
 imagecredit: https://www.budgetbytes.com/2017/09/lemon-garlic-asparagus-pasta/
-dateAdded: 20170630
+date: 2017-06-30
 
 authorName: Beth M.
 authorURL: 
 sourceName: Budget Bytes
 sourceURL: https://www.budgetbytes.com/2017/09/lemon-garlic-asparagus-pasta/
-category: pasta
+category: entree
+cuisine: italian
+tags:
+  - pasta
 yield: 3
 prepTime: 5
 cookTime: 20

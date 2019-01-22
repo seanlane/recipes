@@ -3,13 +3,15 @@ layout: recipe
 title:  "Belgian Waffles"
 image: belgian-waffle.jpg
 imagecredit:
-dateAdded: 20180702
+date: 2018-07-02
 
 authorName: Marie C
 authorURL: http://www.geniuskitchen.com/user/24386
 sourceName: Genius Kitchen
 sourceURL: http://www.geniuskitchen.com/recipe/the-best-belgian-waffles-63071
-tags: Breakfast
+category: Breakfast
+tags: 
+  - Breakfast
 yield: 6
 prepTime: 15
 cookTime: 25

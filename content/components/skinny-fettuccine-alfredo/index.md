@@ -3,13 +3,17 @@ layout: recipe
 title:  "Skinny Fettuccine Alfredo"
 image: skinny-fettuccine-alfredo.jpg
 imagecredit: https://www.gimmesomeoven.com/skinny-fettuccine-alfredo-recipe/
-dateAdded: 20170316
+date: 2017-03-16
 
 authorName: Ali
 authorURL: 
 sourceName: Gimme Some Oven
 sourceURL: https://www.gimmesomeoven.com/skinny-fettuccine-alfredo-recipe/
-category: Pasta
+category: dinner
+cuisine: italian
+tags:
+  - pasta
+  - italian
 yield: 4
 prepTime: 5
 cookTime: 20

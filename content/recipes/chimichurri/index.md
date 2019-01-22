@@ -3,13 +3,17 @@ layout: recipe
 title:  "Chimichurri"
 image: chimichurri.jpg
 imagecredit: https://www.budgetbytes.com/2016/07/chimichurri-good-anything-everything-sauce
-dateAdded: 20170316
+date: 2017-03-16
 
 authorName: Beth
 authorURL: 
 sourceName: Budget Bytes
 sourceURL: https://www.budgetbytes.com/2016/07/chimichurri-good-anything-everything-sauce
 category: Sauce
+cuisine: Argentine
+tags:
+  - mission
+  - Argentine
 yield: 3
 prepTime: 10 
 cookTime: 

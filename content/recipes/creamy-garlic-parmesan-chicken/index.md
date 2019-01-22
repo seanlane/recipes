@@ -3,13 +3,15 @@ layout: recipe
 title:  "Creamy Garlic Parmesan Chicken"
 image: creamy-garlic-parmesan-chicken.jpg
 imagecredit: https://www.thekitchenmagpie.com/creamy-garlic-parmesan-chicken-potatoes/
-dateAdded: 20170316
+date: 2017-03-16
 
 authorName: Karlynn Johnston
 authorURL: https://www.thekitchenmagpie.com/author/admin/
 sourceName: The Kitchen Magpie
 sourceURL: https://www.thekitchenmagpie.com/creamy-garlic-parmesan-chicken-potatoes/
-category: Poultry
+category: dinner
+tags:
+  - Poultry
 yield: 4
 prepTime: 15
 cookTime: 40

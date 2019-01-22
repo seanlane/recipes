@@ -3,168 +3,406 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://recipes.lane.sh/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/5-cheese-mac-n-cheese/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/cuisine/american/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/arroz-chaufa/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/tags/asian/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/category/asian/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/baked-sweet-chili-garlic-popcorn-chicken/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/bananas-in-coconut-cream/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/category/beef/</loc>
-    <priority>0</priority>
+    <loc>https://recipes.lane.sh/recipes/red-thai-curry/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/recipes/belgian-waffles/</loc>
+    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/recipes/best-big-fat-chewy-chocolate-chip-cookie/</loc>
+    <loc>https://recipes.lane.sh/recipes/roasted-butternut-squash/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/nite-bite-brownies/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/faux-jambalaya/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/hummus/</loc>
+    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/homemade-hummus-and-pita-chips/</loc>
+    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/pita-chips/</loc>
+    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/tahini/</loc>
+    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/chicken-fried-steak/</loc>
+    <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/mashed-potatoes/</loc>
+    <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/classic-lasagna/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/quick-and-easy-feijoada/</loc>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/skillet-pineapple-bbq-chicken/</loc>
+    <lastmod>2017-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/french-toast/</loc>
+    <lastmod>2017-09-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/recipes/blondies/</loc>
+    <lastmod>2017-09-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/tags/breakfast/</loc>
+    <loc>https://recipes.lane.sh/recipes/spaghetti-sauce/</loc>
+    <lastmod>2017-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/garlic-noodles/</loc>
+    <lastmod>2017-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/sticky-ginger-soy-glazed-chicken/</loc>
+    <lastmod>2017-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/5-cheese-mac-n-cheese/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/red-berry-tart/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/lemon-garlic-asparagus-pasta/</loc>
+    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/sriracha-egg-salad/sriracha-egg-salad/</loc>
+    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/thai-chicken/</loc>
+    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/grilled-chicken-and-avocado-street-tacos/</loc>
+    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/arroz-chaufa/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/baked-sweet-chili-garlic-popcorn-chicken/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/bananas-in-coconut-cream/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/best-big-fat-chewy-chocolate-chip-cookie/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/chile-verde/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/chimichurri/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/creamy-garlic-parmesan-chicken/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/crock-pot-red-beans-and-rice/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/deep-fried-pizza-doughnuts/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/deep-fried-pizza-dough/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/deep-fried-pizza-filling/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/easy-crockpot-sriracha-honey-chicken-wings/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/easy-pancakes/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/fettuccine-alfredo-with-grilled-chicken/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/ginger-chicken-with-garlic-noodles/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/healthy-roasted-chicken-and-vegetables/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/kielbasa-and-cabbage/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/mmm-mmm-better-brownies/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/muttis-chicken/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/muttis-chicken-and-gravy/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/muttis-gravy/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/ranch-chicken-rollups/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/simply-grilled-chicken-breasts/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/skinny-fettuccine-alfredo/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/sriracha-buttered-shrimp/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/sugar-baby-porkchops/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/slow-cooker-tikka-masala/</loc>
+    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/american/</loc>
+    <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/argentine/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/argentine/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/asian/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/bbq/</loc>
+    <lastmod>2017-10-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/beef/</loc>
+    <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/brazilian/</loc>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/category/breakfast/</loc>
+    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/breakfast/</loc>
+    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/category/</loc>
+    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/recipes/chicken-fried-steak/</loc>
+    <loc>https://recipes.lane.sh/tags/chicken/</loc>
+    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/recipes/chile-verde/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/chimichurri/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/classic-lasagna/</loc>
+    <loc>https://recipes.lane.sh/tags/chocolate/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/components/</loc>
+    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/recipes/creamy-garlic-parmesan-chicken/</loc>
+    <loc>https://recipes.lane.sh/tags/cookies/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/recipes/crock-pot-red-beans-and-rice/</loc>
+    <loc>https://recipes.lane.sh/cuisine/creole/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/cuisine/</loc>
+    <lastmod>2018-01-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/deep-fried-pizza-doughnuts/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/components/deep-fried-pizza-dough/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/components/deep-fried-pizza-filling/</loc>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/category/dessert/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/category/dessert-chocolate/</loc>
+    <loc>https://recipes.lane.sh/tags/dessert/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/category/dinner/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/recipes/easy-crockpot-sriracha-honey-chicken-wings/</loc>
+    <loc>https://recipes.lane.sh/category/entree/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/recipes/easy-pancakes/</loc>
+    <loc>https://recipes.lane.sh/tags/family/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/recipes/faux-jambalaya/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/fettuccine-alfredo-with-grilled-chicken/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/french-toast/</loc>
+    <loc>https://recipes.lane.sh/tags/fruit/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/tags/fun/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/garlic-aioli/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/components/garlic-noodles/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/ginger-chicken-with-garlic-noodles/</loc>
   </url>
   
   <url>
@@ -172,125 +410,86 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/category/grain/</loc>
+    <loc>https://recipes.lane.sh/tags/grill/</loc>
+    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/recipes/grilled-chicken-and-avocado-street-tacos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/healthy-roasted-chicken-and-vegetables/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/components/hummus/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/homemade-hummus-and-pita-chips/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/components/pita-chips/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/components/tahini/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/category/indian/</loc>
+    <loc>https://recipes.lane.sh/cuisine/indian/</loc>
+    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/category/italian/</loc>
+    <loc>https://recipes.lane.sh/tags/indian/</loc>
+    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/recipes/kielbasa-and-cabbage/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/lemon-garlic-asparagus-pasta/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/mashed-potatoes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/category/mexican/</loc>
+    <loc>https://recipes.lane.sh/cuisine/italian/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/category/mission/</loc>
+    <loc>https://recipes.lane.sh/tags/italian/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/recipes/mmm-mmm-better-brownies/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/components/muttis-chicken/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/muttis-chicken-and-gravy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/components/muttis-gravy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/nite-bite-brownies/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/category/party/</loc>
+    <loc>https://recipes.lane.sh/cuisine/mexican/</loc>
+    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/category/pasta/</loc>
+    <loc>https://recipes.lane.sh/tags/mexican/</loc>
+    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/recipes/pepperoncini-pork/</loc>
+    <loc>https://recipes.lane.sh/tags/mission/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/category/pork/</loc>
+    <loc>https://recipes.lane.sh/tags/pasta/</loc>
+    <lastmod>2017-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/peruvian/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/pineapple/</loc>
+    <lastmod>2017-10-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/pork/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/tags/poultry/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/category/poultry/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/quick-and-easy-feijoada/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/ranch-chicken-rollups/</loc>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/recipes/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -299,124 +498,85 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/recipes/red-berry-tart/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/red-thai-curry/</loc>
-  </url>
-  
-  <url>
     <loc>https://recipes.lane.sh/tags/rice/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/category/rice/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/roasted-butternut-squash/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/category/sandwich/</loc>
+    <loc>https://recipes.lane.sh/tags/sandwich/</loc>
+    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/category/sauce/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/category/sauces/</loc>
+    <loc>https://recipes.lane.sh/tags/seafood/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/category/seafood/</loc>
+    <loc>https://recipes.lane.sh/category/side/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/tags/side-vegetable/</loc>
+    <loc>https://recipes.lane.sh/tags/side/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/category/sides/</loc>
+    <loc>https://recipes.lane.sh/tags/slow-cooker/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/components/simply-grilled-chicken-breasts/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/skillet-pineapple-bbq-chicken/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/components/skinny-fettuccine-alfredo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/category/slow-cooker/</loc>
+    <loc>https://recipes.lane.sh/category/snack/</loc>
+    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/slow-cooker-tikka-masala/</loc>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/tags/snack/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/recipes/spaghetti-sauce/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/sriracha-buttered-shrimp/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/sriracha-egg-salad/sriracha-egg-salad/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/components/sticky-ginger-soy-glazed-chicken/</loc>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/sugar-baby-porkchops/</loc>
+    <loc>https://recipes.lane.sh/tags/sriracha/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/category/thai/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/cuisine/thai/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/recipes/thai-chicken/</loc>
+    <loc>https://recipes.lane.sh/components/vanilla-custard-filling/</loc>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/components/vanilla-custard-filling/</loc>
+    <loc>https://recipes.lane.sh/tags/vegetable/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

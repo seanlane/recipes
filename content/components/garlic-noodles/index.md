@@ -3,13 +3,16 @@ layout: recipe
 title:  "Garlic Noodles"
 image: garlic-noodles.jpg
 imagecredit: https://www.budgetbytes.com/2009/12/garlic-noodles/
-dateAdded: 20170920
+date: 2017-09-20
 
 authorName: Beth M.
 authorURL: 
 sourceName: Budget Bytes
 sourceURL: https://www.budgetbytes.com/2009/12/garlic-noodles/
-category: 
+category: dinner
+tags:
+  - pasta
+  - asian
 yield: 4
 prepTime: 10
 cookTime: 15

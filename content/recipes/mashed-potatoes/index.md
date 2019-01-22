@@ -3,14 +3,17 @@ layout: recipe
 title:  "Mashed Potatoes"
 image: mashed-potatoes.jpg
 imagecredit:
-dateAdded: 20180111
+date: 2018-01-11
 YouTubeID: 
 
 authorName: Natasha
 authorURL: https://natashaskitchen.com/
 sourceName: "Natasha's Kitchen"
 sourceURL: https://natashaskitchen.com/2016/11/22/creamy-mashed-potatoes-recipe/
-category: Sides
+category: side
+tags:
+  - side
+  - vegetable
 yield: 4-6
 prepTime: 15
 cookTime: 25

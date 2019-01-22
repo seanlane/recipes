@@ -1,6 +1,9 @@
 default:
 	hugo server
 
+build:
+	hugo --destination docs/
+
 debug:
 	hugo server -D
 

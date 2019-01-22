@@ -3,13 +3,16 @@ layout: recipe
 title:  "Chicken Fried Steak"
 image: chicken-fried-steak.jpg
 imagecredit:
-dateAdded: 20180111
+date: 2018-01-11
 
 authorName: Joshua Bousel 
 authorURL: http://www.seriouseats.com/user/profile/josh
 sourceName: Serious Eats
 sourceURL: http://www.seriouseats.com/recipes/2015/02/chicken-fried-steak-recipe.html
-category: Beef
+category: dinner
+cuisine: american
+tags:
+  - Beef
 yield: 4
 prepTime: 45
 cookTime: 15

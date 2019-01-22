@@ -3,13 +3,16 @@ layout: recipe
 title:  "Easy Pancakes"
 image: easy-pancakes.jpg
 imagecredit: http://allrecipes.com/recipe/45396/easy-pancakes/
-dateAdded: 20170316
+date: 2017-03-16
 
 authorName: Sharon Holt
 authorURL: 
 sourceName: All Recipes
 sourceURL: http://allrecipes.com/recipe/45396/easy-pancakes/
 category: Breakfast
+cuisine: american
+tags:
+  - Breakfast
 yield: 4
 prepTime: 5
 cookTime: 10

@@ -3,13 +3,17 @@ layout: recipe
 title:  "Easy Crockpot Sriracha Honey Chicken Wings"
 image: easy-crockpot-sriracha-honey-chicken-wings.jpg
 imagecredit: http://www.theslowroasteditalian.com/2014/03/easy-crockpot-sriracha-honey-chicken-wings-recipe.html
-dateAdded: 20170316
+date: 2017-03-16
 
 authorName: Donna Elick
 authorURL: 
 sourceName: The Slow Roasted Italian
 sourceURL: http://www.theslowroasteditalian.com/2014/03/easy-crockpot-sriracha-honey-chicken-wings-recipe.html
-category: Poultry
+category: dinner
+tags:
+  - Poultry
+  - slow cooker
+  - fun
 yield: 6
 prepTime: 15
 cookTime: 180

@@ -3,13 +3,17 @@ layout: recipe
 title:  "Simply Grilled Chicken Breasts"
 image: simply-grilled-chicken-breasts.jpg
 imagecredit: http://www.foodnetwork.com/recipes/melissa-darabian/simply-grilled-chicken-breasts-recipe-1952483
-dateAdded: 20170316
+date: 2017-03-16
 
 authorName: Melissa d'Arabian
 authorURL: http://www.foodnetwork.com/profiles/talent/melissa-darabian
 sourceName: Food Network
 sourceURL: http://www.foodnetwork.com/recipes/melissa-darabian/simply-grilled-chicken-breasts-recipe-1952483
-category: Poultry
+category: dinner
+cuisine: Italian
+tags:
+  - Poultry
+  - italian
 yield: 4
 prepTime: 15
 cookTime: 35

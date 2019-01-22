@@ -3,13 +3,13 @@ layout: recipe
 title:  "Homemade Hummus and Pita Chips"
 image: hummus-and-chips.jpg
 imagecredit:
-dateAdded: 20180121
+date: 2018-01-21
 
 authorName: Multiple
 authorURL: 
 sourceName: Multiple places
 sourceURL: 
-category: 
+category: snack 
 yield: 8
 prepTime: 25 
 cookTime: 10

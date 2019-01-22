@@ -3,13 +3,16 @@ layout: recipe
 title:  "Best Big, Fat, Chewy Chocolate Chip Cookie"
 image: best-big-fat-chewy-chocolate-chip-cookie.jpg
 imagecredit: http://allrecipes.com/recipe/25037/best-big-fat-chewy-chocolate-chip-cookie/
-dateAdded: 20170316
+date: 2017-03-16
 
 authorName: Elizabeth BH
 authorURL: http://allrecipes.com/cook/183690/made-it/
 sourceName: All Recipes
 sourceURL: http://allrecipes.com/recipe/25037/best-big-fat-chewy-chocolate-chip-cookie/
 category: Dessert
+tags:
+  - chocolate
+  - cookies
 yield: 7
 prepTime: 15
 cookTime: 15

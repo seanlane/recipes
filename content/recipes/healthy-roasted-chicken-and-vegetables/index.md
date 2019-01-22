@@ -3,13 +3,15 @@ layout: recipe
 title:  "Healthy Roasted Chicken & Vegtables"
 image: healthy-roasted-chicken-and-vegetables.jpg
 imagecredit: https://www.bonappetit.com/recipe/sriracha-buttered-shrimp
-dateAdded: 20170316
+date: 2017-03-16
 
 authorName: Layla
 authorURL: 
 sourceName: Gimme Delicious Food
 sourceURL: http://gimmedelicious.com/2016/12/17/meal-prep-healthy-roasted-chicken-and-veggies/
-category: Poultry
+category: dinner
+tags:
+  - poultry
 yield: 4
 prepTime: 10
 cookTime: 20

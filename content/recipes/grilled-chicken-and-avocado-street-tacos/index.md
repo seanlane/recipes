@@ -3,13 +3,18 @@ layout: recipe
 title:  "Grilled Chicken and Avocado Street Tacos"
 image: grilled-chicken-and-avocado-street-tacos.jpg
 imagecredit:
-dateAdded: 20170418
+date: 2017-04-18
 
 authorName: 
 authorURL: 
 sourceName: Cooking Classy
 sourceURL: https://www.cookingclassy.com/grilled-chicken-and-avocado-street-tacos/
-category: Mexican
+category: dinner 
+cuisine: Mexican
+tags:
+  - Mexican
+  - poultry
+  - grill
 yield: 4
 prepTime: 
 cookTime: 
