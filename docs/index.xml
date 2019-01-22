@@ -2,346 +2,346 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lane Recipes</title>
-    <link>http://localhost:1313/</link>
+    <link>https://recipes.lane.sh/</link>
     <description>Recent content on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Red Thai Curry</title>
-      <link>http://localhost:1313/recipes/red-thai-curry/</link>
+      <link>https://recipes.lane.sh/recipes/red-thai-curry/</link>
       <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/red-thai-curry/</guid>
+      <guid>https://recipes.lane.sh/recipes/red-thai-curry/</guid>
       <description>Sources used:
 http://makingthymeforhealth.com/one-pot-vegetable-thai-red-curry/ https://www.lettyskitchen.com/quick-and-easy-potatoes-in-coconut-red-curry-sauce/ https://www.epicurious.com/recipes/food/views/thai-chicken-curry-51140410 https://cookieandkate.com/2015/thai-red-curry-recipe/ https://damndelicious.net/2018/02/25/easy-thai-red-curry/</description>
     </item>
     
     <item>
       <title>Belgian Waffles</title>
-      <link>http://localhost:1313/recipes/belgian-waffles/</link>
+      <link>https://recipes.lane.sh/recipes/belgian-waffles/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/belgian-waffles/</guid>
+      <guid>https://recipes.lane.sh/recipes/belgian-waffles/</guid>
       <description>These came out pretty good. Depending on how well your waffle iron nonstick coating works, you may not need to oil the iron.</description>
     </item>
     
     <item>
       <title>Roasted Butternut Squash</title>
-      <link>http://localhost:1313/recipes/roasted-butternut-squash/</link>
+      <link>https://recipes.lane.sh/recipes/roasted-butternut-squash/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/roasted-butternut-squash/</guid>
+      <guid>https://recipes.lane.sh/recipes/roasted-butternut-squash/</guid>
       <description>Tip: Don&amp;rsquo;t over do it on the olive oil, otherwise it comes out too greasy.</description>
     </item>
     
     <item>
       <title>Nite Bites Brownies</title>
-      <link>http://localhost:1313/recipes/nite-bite-brownies/</link>
+      <link>https://recipes.lane.sh/recipes/nite-bite-brownies/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/nite-bite-brownies/</guid>
+      <guid>https://recipes.lane.sh/recipes/nite-bite-brownies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Faux Jambalaya</title>
-      <link>http://localhost:1313/recipes/faux-jambalaya/</link>
+      <link>https://recipes.lane.sh/recipes/faux-jambalaya/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/faux-jambalaya/</guid>
+      <guid>https://recipes.lane.sh/recipes/faux-jambalaya/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homemade Hummus</title>
-      <link>http://localhost:1313/components/hummus/</link>
+      <link>https://recipes.lane.sh/components/hummus/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/components/hummus/</guid>
+      <guid>https://recipes.lane.sh/components/hummus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homemade Hummus and Pita Chips</title>
-      <link>http://localhost:1313/recipes/homemade-hummus-and-pita-chips/</link>
+      <link>https://recipes.lane.sh/recipes/homemade-hummus-and-pita-chips/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/homemade-hummus-and-pita-chips/</guid>
+      <guid>https://recipes.lane.sh/recipes/homemade-hummus-and-pita-chips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homemade Pita Chips</title>
-      <link>http://localhost:1313/components/pita-chips/</link>
+      <link>https://recipes.lane.sh/components/pita-chips/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/components/pita-chips/</guid>
+      <guid>https://recipes.lane.sh/components/pita-chips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homemade Tahini</title>
-      <link>http://localhost:1313/components/tahini/</link>
+      <link>https://recipes.lane.sh/components/tahini/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/components/tahini/</guid>
+      <guid>https://recipes.lane.sh/components/tahini/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chicken Fried Steak</title>
-      <link>http://localhost:1313/recipes/chicken-fried-steak/</link>
+      <link>https://recipes.lane.sh/recipes/chicken-fried-steak/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/chicken-fried-steak/</guid>
+      <guid>https://recipes.lane.sh/recipes/chicken-fried-steak/</guid>
       <description>The original recipe is a bit fancier, but these changes seem to still give a tasty dinner. Also check out the source recipe for a homemade gravy recipe.</description>
     </item>
     
     <item>
       <title>Mashed Potatoes</title>
-      <link>http://localhost:1313/recipes/mashed-potatoes/</link>
+      <link>https://recipes.lane.sh/recipes/mashed-potatoes/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/mashed-potatoes/</guid>
+      <guid>https://recipes.lane.sh/recipes/mashed-potatoes/</guid>
       <description>We halve the original recipe to get the quantities above.</description>
     </item>
     
     <item>
       <title>Classic Lasagna</title>
-      <link>http://localhost:1313/recipes/classic-lasagna/</link>
+      <link>https://recipes.lane.sh/recipes/classic-lasagna/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/classic-lasagna/</guid>
+      <guid>https://recipes.lane.sh/recipes/classic-lasagna/</guid>
       <description>You might need a bit more cottage or ricotta cheese, especially if splitting between smaller pans. Also, you will only get two levels deep if you don&amp;rsquo;t have a really deep pan. Our contribution to this recipe comes from Ashley&amp;rsquo;s mother, which is adding a package of spicy Italian sausage to give some additional flavor.</description>
     </item>
     
     <item>
       <title>Quick and Easy Feijoada</title>
-      <link>http://localhost:1313/recipes/quick-and-easy-feijoada/</link>
+      <link>https://recipes.lane.sh/recipes/quick-and-easy-feijoada/</link>
       <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/quick-and-easy-feijoada/</guid>
+      <guid>https://recipes.lane.sh/recipes/quick-and-easy-feijoada/</guid>
       <description>Hearkens back to the mission. Note that I&amp;rsquo;ve modified this recipe a bit for personal preference. At the end, thicken with a cornstarch slurry as needed. Optionally use creole seasoning or similar instead of salt to add some further spice. Goes great with some sriracha or other hot sauce too.</description>
     </item>
     
     <item>
       <title>Skillet Pineapple BBQ Chicken</title>
-      <link>http://localhost:1313/recipes/skillet-pineapple-bbq-chicken/</link>
+      <link>https://recipes.lane.sh/recipes/skillet-pineapple-bbq-chicken/</link>
       <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/skillet-pineapple-bbq-chicken/</guid>
+      <guid>https://recipes.lane.sh/recipes/skillet-pineapple-bbq-chicken/</guid>
       <description></description>
     </item>
     
     <item>
       <title>French Toast</title>
-      <link>http://localhost:1313/recipes/french-toast/</link>
+      <link>https://recipes.lane.sh/recipes/french-toast/</link>
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/french-toast/</guid>
+      <guid>https://recipes.lane.sh/recipes/french-toast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blondies</title>
-      <link>http://localhost:1313/recipes/blondies/</link>
+      <link>https://recipes.lane.sh/recipes/blondies/</link>
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/blondies/</guid>
+      <guid>https://recipes.lane.sh/recipes/blondies/</guid>
       <description>I can&amp;rsquo;t remember where I found this recipe, it simply lives on from a notebook I kept from my mission. Good for parties an thing, since it goes a long way and is easier to prep than cookies.</description>
     </item>
     
     <item>
       <title>Spaghetti Sauce</title>
-      <link>http://localhost:1313/recipes/spaghetti-sauce/</link>
+      <link>https://recipes.lane.sh/recipes/spaghetti-sauce/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/spaghetti-sauce/</guid>
+      <guid>https://recipes.lane.sh/recipes/spaghetti-sauce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Garlic Noodles</title>
-      <link>http://localhost:1313/components/garlic-noodles/</link>
+      <link>https://recipes.lane.sh/components/garlic-noodles/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/components/garlic-noodles/</guid>
+      <guid>https://recipes.lane.sh/components/garlic-noodles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sticky Ginger Soy Glazed Chicken</title>
-      <link>http://localhost:1313/components/sticky-ginger-soy-glazed-chicken/</link>
+      <link>https://recipes.lane.sh/components/sticky-ginger-soy-glazed-chicken/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/components/sticky-ginger-soy-glazed-chicken/</guid>
+      <guid>https://recipes.lane.sh/components/sticky-ginger-soy-glazed-chicken/</guid>
       <description>Notes: It is safe to cook used marinades as long as they come to a full boil, according to the FDA food safety guidelines. This thoroughly cooks the marinade, just like the raw chicken that was in it, to kill bacteria. The used marinade should be cooked immediately and should not be stored uncooked for later use. If concerned, double the marinade and use half for the chicken and reduce the other half in a small sauce pan before brushing it onto the chicken.</description>
     </item>
     
     <item>
       <title>5 Cheese Mac N&#39; Cheese</title>
-      <link>http://localhost:1313/recipes/5-cheese-mac-n-cheese/</link>
+      <link>https://recipes.lane.sh/recipes/5-cheese-mac-n-cheese/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/5-cheese-mac-n-cheese/</guid>
+      <guid>https://recipes.lane.sh/recipes/5-cheese-mac-n-cheese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Red Berry Tart</title>
-      <link>http://localhost:1313/recipes/red-berry-tart/</link>
+      <link>https://recipes.lane.sh/recipes/red-berry-tart/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/red-berry-tart/</guid>
+      <guid>https://recipes.lane.sh/recipes/red-berry-tart/</guid>
       <description>A favorite when I go to BBQs (parties, hackathons, your folks&amp;rsquo; place), this red berry tart is fairly easy to make and packs a huge wow factor.</description>
     </item>
     
     <item>
       <title>Lemon Garlic Asparagus Pasta</title>
-      <link>http://localhost:1313/recipes/lemon-garlic-asparagus-pasta/</link>
+      <link>https://recipes.lane.sh/recipes/lemon-garlic-asparagus-pasta/</link>
       <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/lemon-garlic-asparagus-pasta/</guid>
+      <guid>https://recipes.lane.sh/recipes/lemon-garlic-asparagus-pasta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sriracha Egg Salad</title>
-      <link>http://localhost:1313/recipes/sriracha-egg-salad/sriracha-egg-salad/</link>
+      <link>https://recipes.lane.sh/recipes/sriracha-egg-salad/sriracha-egg-salad/</link>
       <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/sriracha-egg-salad/sriracha-egg-salad/</guid>
+      <guid>https://recipes.lane.sh/recipes/sriracha-egg-salad/sriracha-egg-salad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thai Chicken</title>
-      <link>http://localhost:1313/recipes/thai-chicken/</link>
+      <link>https://recipes.lane.sh/recipes/thai-chicken/</link>
       <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/thai-chicken/</guid>
+      <guid>https://recipes.lane.sh/recipes/thai-chicken/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grilled Chicken and Avocado Street Tacos</title>
-      <link>http://localhost:1313/recipes/grilled-chicken-and-avocado-street-tacos/</link>
+      <link>https://recipes.lane.sh/recipes/grilled-chicken-and-avocado-street-tacos/</link>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/grilled-chicken-and-avocado-street-tacos/</guid>
+      <guid>https://recipes.lane.sh/recipes/grilled-chicken-and-avocado-street-tacos/</guid>
       <description>Some good street tacos. If you don&amp;rsquo;t want to double up on the tortillas you&amp;rsquo;ll only need about 12.</description>
     </item>
     
     <item>
       <title>Arroz Chaufa</title>
-      <link>http://localhost:1313/recipes/arroz-chaufa/</link>
+      <link>https://recipes.lane.sh/recipes/arroz-chaufa/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/arroz-chaufa/</guid>
+      <guid>https://recipes.lane.sh/recipes/arroz-chaufa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Baked Sweet Chili Garlic Popcorn Chicken</title>
-      <link>http://localhost:1313/recipes/baked-sweet-chili-garlic-popcorn-chicken/</link>
+      <link>https://recipes.lane.sh/recipes/baked-sweet-chili-garlic-popcorn-chicken/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/baked-sweet-chili-garlic-popcorn-chicken/</guid>
+      <guid>https://recipes.lane.sh/recipes/baked-sweet-chili-garlic-popcorn-chicken/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bananas in Coconut Cream</title>
-      <link>http://localhost:1313/recipes/bananas-in-coconut-cream/</link>
+      <link>https://recipes.lane.sh/recipes/bananas-in-coconut-cream/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/bananas-in-coconut-cream/</guid>
+      <guid>https://recipes.lane.sh/recipes/bananas-in-coconut-cream/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Best Big, Fat, Chewy Chocolate Chip Cookie</title>
-      <link>http://localhost:1313/recipes/best-big-fat-chewy-chocolate-chip-cookie/</link>
+      <link>https://recipes.lane.sh/recipes/best-big-fat-chewy-chocolate-chip-cookie/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/best-big-fat-chewy-chocolate-chip-cookie/</guid>
+      <guid>https://recipes.lane.sh/recipes/best-big-fat-chewy-chocolate-chip-cookie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chile Verde</title>
-      <link>http://localhost:1313/recipes/chile-verde/</link>
+      <link>https://recipes.lane.sh/recipes/chile-verde/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/chile-verde/</guid>
+      <guid>https://recipes.lane.sh/recipes/chile-verde/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chimichurri</title>
-      <link>http://localhost:1313/recipes/chimichurri/</link>
+      <link>https://recipes.lane.sh/recipes/chimichurri/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/chimichurri/</guid>
+      <guid>https://recipes.lane.sh/recipes/chimichurri/</guid>
       <description>Additional Notes: I used dried oregano to save costs, but if you have fresh available 1-2 Tbsp fresh oregano leaves can be used in place of the dried.</description>
     </item>
     
     <item>
       <title>Creamy Garlic Parmesan Chicken</title>
-      <link>http://localhost:1313/recipes/creamy-garlic-parmesan-chicken/</link>
+      <link>https://recipes.lane.sh/recipes/creamy-garlic-parmesan-chicken/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/creamy-garlic-parmesan-chicken/</guid>
+      <guid>https://recipes.lane.sh/recipes/creamy-garlic-parmesan-chicken/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crock Pot Red Beans and Rice</title>
-      <link>http://localhost:1313/recipes/crock-pot-red-beans-and-rice/</link>
+      <link>https://recipes.lane.sh/recipes/crock-pot-red-beans-and-rice/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/crock-pot-red-beans-and-rice/</guid>
+      <guid>https://recipes.lane.sh/recipes/crock-pot-red-beans-and-rice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Fried Pizza &#39;Donuts&#39;</title>
-      <link>http://localhost:1313/recipes/deep-fried-pizza-doughnuts/</link>
+      <link>https://recipes.lane.sh/recipes/deep-fried-pizza-doughnuts/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/deep-fried-pizza-doughnuts/</guid>
+      <guid>https://recipes.lane.sh/recipes/deep-fried-pizza-doughnuts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Fried Pizza Dough</title>
-      <link>http://localhost:1313/components/deep-fried-pizza-dough/</link>
+      <link>https://recipes.lane.sh/components/deep-fried-pizza-dough/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/components/deep-fried-pizza-dough/</guid>
+      <guid>https://recipes.lane.sh/components/deep-fried-pizza-dough/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Fried Pizza Filling</title>
-      <link>http://localhost:1313/components/deep-fried-pizza-filling/</link>
+      <link>https://recipes.lane.sh/components/deep-fried-pizza-filling/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/components/deep-fried-pizza-filling/</guid>
+      <guid>https://recipes.lane.sh/components/deep-fried-pizza-filling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Easy Crockpot Sriracha Honey Chicken Wings</title>
-      <link>http://localhost:1313/recipes/easy-crockpot-sriracha-honey-chicken-wings/</link>
+      <link>https://recipes.lane.sh/recipes/easy-crockpot-sriracha-honey-chicken-wings/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/easy-crockpot-sriracha-honey-chicken-wings/</guid>
+      <guid>https://recipes.lane.sh/recipes/easy-crockpot-sriracha-honey-chicken-wings/</guid>
       <description>Additional Notes:
 You can use fresh wings. Cook time would be 3-4 hours on low or 1 to 2 hours on high. Additionally, when using fresh your sauce will cook quicker. Approximately 3-5 minutes.
 Instead of cooking the sauce down and broiling it you can mix up 2 tablespoons corn starch and 2 tablespoons water in a resealable container and shake it really well. Pour slurry into crockpot then cook an additional 30 minutes on high.</description>
@@ -349,163 +349,163 @@ Instead of cooking the sauce down and broiling it you can mix up 2 tablespoons c
     
     <item>
       <title>Easy Pancakes</title>
-      <link>http://localhost:1313/recipes/easy-pancakes/</link>
+      <link>https://recipes.lane.sh/recipes/easy-pancakes/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/easy-pancakes/</guid>
+      <guid>https://recipes.lane.sh/recipes/easy-pancakes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fettuccini Alfredo with Grilled Chicken</title>
-      <link>http://localhost:1313/recipes/fettuccine-alfredo-with-grilled-chicken/</link>
+      <link>https://recipes.lane.sh/recipes/fettuccine-alfredo-with-grilled-chicken/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/fettuccine-alfredo-with-grilled-chicken/</guid>
+      <guid>https://recipes.lane.sh/recipes/fettuccine-alfredo-with-grilled-chicken/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ginger Chicken with Garlic Noodles</title>
-      <link>http://localhost:1313/recipes/ginger-chicken-with-garlic-noodles/</link>
+      <link>https://recipes.lane.sh/recipes/ginger-chicken-with-garlic-noodles/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/ginger-chicken-with-garlic-noodles/</guid>
+      <guid>https://recipes.lane.sh/recipes/ginger-chicken-with-garlic-noodles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Healthy Roasted Chicken &amp; Vegtables</title>
-      <link>http://localhost:1313/recipes/healthy-roasted-chicken-and-vegetables/</link>
+      <link>https://recipes.lane.sh/recipes/healthy-roasted-chicken-and-vegetables/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/healthy-roasted-chicken-and-vegetables/</guid>
+      <guid>https://recipes.lane.sh/recipes/healthy-roasted-chicken-and-vegetables/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kielbasa and Cabbage</title>
-      <link>http://localhost:1313/recipes/kielbasa-and-cabbage/</link>
+      <link>https://recipes.lane.sh/recipes/kielbasa-and-cabbage/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/kielbasa-and-cabbage/</guid>
+      <guid>https://recipes.lane.sh/recipes/kielbasa-and-cabbage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mmm Mmm Better Brownies</title>
-      <link>http://localhost:1313/recipes/mmm-mmm-better-brownies/</link>
+      <link>https://recipes.lane.sh/recipes/mmm-mmm-better-brownies/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/mmm-mmm-better-brownies/</guid>
+      <guid>https://recipes.lane.sh/recipes/mmm-mmm-better-brownies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mutti&#39;s Chicken</title>
-      <link>http://localhost:1313/components/muttis-chicken/</link>
+      <link>https://recipes.lane.sh/components/muttis-chicken/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/components/muttis-chicken/</guid>
+      <guid>https://recipes.lane.sh/components/muttis-chicken/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mutti&#39;s Chicken &amp; Gravy</title>
-      <link>http://localhost:1313/recipes/muttis-chicken-and-gravy/</link>
+      <link>https://recipes.lane.sh/recipes/muttis-chicken-and-gravy/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/muttis-chicken-and-gravy/</guid>
+      <guid>https://recipes.lane.sh/recipes/muttis-chicken-and-gravy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mutti&#39;s Gravy</title>
-      <link>http://localhost:1313/components/muttis-gravy/</link>
+      <link>https://recipes.lane.sh/components/muttis-gravy/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/components/muttis-gravy/</guid>
+      <guid>https://recipes.lane.sh/components/muttis-gravy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ranch Chicken Rollups</title>
-      <link>http://localhost:1313/recipes/ranch-chicken-rollups/</link>
+      <link>https://recipes.lane.sh/recipes/ranch-chicken-rollups/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/ranch-chicken-rollups/</guid>
+      <guid>https://recipes.lane.sh/recipes/ranch-chicken-rollups/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simply Grilled Chicken Breasts</title>
-      <link>http://localhost:1313/components/simply-grilled-chicken-breasts/</link>
+      <link>https://recipes.lane.sh/components/simply-grilled-chicken-breasts/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/components/simply-grilled-chicken-breasts/</guid>
+      <guid>https://recipes.lane.sh/components/simply-grilled-chicken-breasts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skinny Fettuccine Alfredo</title>
-      <link>http://localhost:1313/components/skinny-fettuccine-alfredo/</link>
+      <link>https://recipes.lane.sh/components/skinny-fettuccine-alfredo/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/components/skinny-fettuccine-alfredo/</guid>
+      <guid>https://recipes.lane.sh/components/skinny-fettuccine-alfredo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sriracha Buttered Shrimp</title>
-      <link>http://localhost:1313/recipes/sriracha-buttered-shrimp/</link>
+      <link>https://recipes.lane.sh/recipes/sriracha-buttered-shrimp/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/sriracha-buttered-shrimp/</guid>
+      <guid>https://recipes.lane.sh/recipes/sriracha-buttered-shrimp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sugar Baby Porkchops</title>
-      <link>http://localhost:1313/recipes/sugar-baby-porkchops/</link>
+      <link>https://recipes.lane.sh/recipes/sugar-baby-porkchops/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/sugar-baby-porkchops/</guid>
+      <guid>https://recipes.lane.sh/recipes/sugar-baby-porkchops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slow Cooker Tikka Masala</title>
-      <link>http://localhost:1313/recipes/slow-cooker-tikka-masala/</link>
+      <link>https://recipes.lane.sh/recipes/slow-cooker-tikka-masala/</link>
       <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/slow-cooker-tikka-masala/</guid>
+      <guid>https://recipes.lane.sh/recipes/slow-cooker-tikka-masala/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graham Cracker Crust</title>
-      <link>http://localhost:1313/components/graham-cracker-crust/</link>
+      <link>https://recipes.lane.sh/components/graham-cracker-crust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/components/graham-cracker-crust/</guid>
+      <guid>https://recipes.lane.sh/components/graham-cracker-crust/</guid>
       <description>A simple graham cracker crust, perfect for cheesecakes or tarts.</description>
     </item>
     
     <item>
       <title>Red Berry Dessert Topping</title>
-      <link>http://localhost:1313/components/red-berry-dessert-topping/</link>
+      <link>https://recipes.lane.sh/components/red-berry-dessert-topping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/components/red-berry-dessert-topping/</guid>
+      <guid>https://recipes.lane.sh/components/red-berry-dessert-topping/</guid>
       <description>A simple mash of berries, perfect for a tart or top of cheesecake.</description>
     </item>
     
     <item>
       <title>Vanilla Custard Filling</title>
-      <link>http://localhost:1313/components/vanilla-custard-filling/</link>
+      <link>https://recipes.lane.sh/components/vanilla-custard-filling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/components/vanilla-custard-filling/</guid>
+      <guid>https://recipes.lane.sh/components/vanilla-custard-filling/</guid>
       <description>A simple vanilla custard filling, useful for tarts (or alone by itself in a bowl).</description>
     </item>
     

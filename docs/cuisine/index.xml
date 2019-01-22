@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cuisine on Lane Recipes</title>
-    <link>http://localhost:1313/cuisine/</link>
+    <link>https://recipes.lane.sh/cuisine/</link>
     <description>Recent content in Cuisine on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/cuisine/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>American</title>
-      <link>http://localhost:1313/cuisine/american/</link>
+      <link>https://recipes.lane.sh/cuisine/american/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cuisine/american/</guid>
+      <guid>https://recipes.lane.sh/cuisine/american/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Argentine</title>
-      <link>http://localhost:1313/cuisine/argentine/</link>
+      <link>https://recipes.lane.sh/cuisine/argentine/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cuisine/argentine/</guid>
+      <guid>https://recipes.lane.sh/cuisine/argentine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brazilian</title>
-      <link>http://localhost:1313/cuisine/brazilian/</link>
+      <link>https://recipes.lane.sh/cuisine/brazilian/</link>
       <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cuisine/brazilian/</guid>
+      <guid>https://recipes.lane.sh/cuisine/brazilian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Creole</title>
-      <link>http://localhost:1313/cuisine/creole/</link>
+      <link>https://recipes.lane.sh/cuisine/creole/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cuisine/creole/</guid>
+      <guid>https://recipes.lane.sh/cuisine/creole/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Indian</title>
-      <link>http://localhost:1313/cuisine/indian/</link>
+      <link>https://recipes.lane.sh/cuisine/indian/</link>
       <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cuisine/indian/</guid>
+      <guid>https://recipes.lane.sh/cuisine/indian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Italian</title>
-      <link>http://localhost:1313/cuisine/italian/</link>
+      <link>https://recipes.lane.sh/cuisine/italian/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cuisine/italian/</guid>
+      <guid>https://recipes.lane.sh/cuisine/italian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mexican</title>
-      <link>http://localhost:1313/cuisine/mexican/</link>
+      <link>https://recipes.lane.sh/cuisine/mexican/</link>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cuisine/mexican/</guid>
+      <guid>https://recipes.lane.sh/cuisine/mexican/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peruvian</title>
-      <link>http://localhost:1313/cuisine/peruvian/</link>
+      <link>https://recipes.lane.sh/cuisine/peruvian/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cuisine/peruvian/</guid>
+      <guid>https://recipes.lane.sh/cuisine/peruvian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thai</title>
-      <link>http://localhost:1313/cuisine/thai/</link>
+      <link>https://recipes.lane.sh/cuisine/thai/</link>
       <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cuisine/thai/</guid>
+      <guid>https://recipes.lane.sh/cuisine/thai/</guid>
       <description></description>
     </item>
     

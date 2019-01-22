@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Side on Lane Recipes</title>
-    <link>http://localhost:1313/tags/side/</link>
+    <link>https://recipes.lane.sh/tags/side/</link>
     <description>Recent content in Side on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/side/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/tags/side/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Roasted Butternut Squash</title>
-      <link>http://localhost:1313/recipes/roasted-butternut-squash/</link>
+      <link>https://recipes.lane.sh/recipes/roasted-butternut-squash/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/roasted-butternut-squash/</guid>
+      <guid>https://recipes.lane.sh/recipes/roasted-butternut-squash/</guid>
       <description>Tip: Don&amp;rsquo;t over do it on the olive oil, otherwise it comes out too greasy.</description>
     </item>
     
     <item>
       <title>Mashed Potatoes</title>
-      <link>http://localhost:1313/recipes/mashed-potatoes/</link>
+      <link>https://recipes.lane.sh/recipes/mashed-potatoes/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/mashed-potatoes/</guid>
+      <guid>https://recipes.lane.sh/recipes/mashed-potatoes/</guid>
       <description>We halve the original recipe to get the quantities above.</description>
     </item>
     

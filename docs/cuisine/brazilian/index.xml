@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brazilian on Lane Recipes</title>
-    <link>http://localhost:1313/cuisine/brazilian/</link>
+    <link>https://recipes.lane.sh/cuisine/brazilian/</link>
     <description>Recent content in Brazilian on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/cuisine/brazilian/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/cuisine/brazilian/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quick and Easy Feijoada</title>
-      <link>http://localhost:1313/recipes/quick-and-easy-feijoada/</link>
+      <link>https://recipes.lane.sh/recipes/quick-and-easy-feijoada/</link>
       <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/quick-and-easy-feijoada/</guid>
+      <guid>https://recipes.lane.sh/recipes/quick-and-easy-feijoada/</guid>
       <description>Hearkens back to the mission. Note that I&amp;rsquo;ve modified this recipe a bit for personal preference. At the end, thicken with a cornstarch slurry as needed. Optionally use creole seasoning or similar instead of salt to add some further spice. Goes great with some sriracha or other hot sauce too.</description>
     </item>
     

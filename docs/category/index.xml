@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Category on Lane Recipes</title>
-    <link>http://localhost:1313/category/</link>
+    <link>https://recipes.lane.sh/category/</link>
     <description>Recent content in Category on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/category/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/category/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Breakfast</title>
-      <link>http://localhost:1313/category/breakfast/</link>
+      <link>https://recipes.lane.sh/category/breakfast/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/category/breakfast/</guid>
+      <guid>https://recipes.lane.sh/category/breakfast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dessert</title>
-      <link>http://localhost:1313/category/dessert/</link>
+      <link>https://recipes.lane.sh/category/dessert/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/category/dessert/</guid>
+      <guid>https://recipes.lane.sh/category/dessert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dinner</title>
-      <link>http://localhost:1313/category/dinner/</link>
+      <link>https://recipes.lane.sh/category/dinner/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/category/dinner/</guid>
+      <guid>https://recipes.lane.sh/category/dinner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entree</title>
-      <link>http://localhost:1313/category/entree/</link>
+      <link>https://recipes.lane.sh/category/entree/</link>
       <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/category/entree/</guid>
+      <guid>https://recipes.lane.sh/category/entree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sauce</title>
-      <link>http://localhost:1313/category/sauce/</link>
+      <link>https://recipes.lane.sh/category/sauce/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/category/sauce/</guid>
+      <guid>https://recipes.lane.sh/category/sauce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Side</title>
-      <link>http://localhost:1313/category/side/</link>
+      <link>https://recipes.lane.sh/category/side/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/category/side/</guid>
+      <guid>https://recipes.lane.sh/category/side/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snack</title>
-      <link>http://localhost:1313/category/snack/</link>
+      <link>https://recipes.lane.sh/category/snack/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/category/snack/</guid>
+      <guid>https://recipes.lane.sh/category/snack/</guid>
       <description></description>
     </item>
     

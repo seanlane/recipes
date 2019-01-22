@@ -2,273 +2,273 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lane Recipes</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://recipes.lane.sh/tags/</link>
     <description>Recent content in Tags on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Argentine</title>
-      <link>http://localhost:1313/tags/argentine/</link>
+      <link>https://recipes.lane.sh/tags/argentine/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/argentine/</guid>
+      <guid>https://recipes.lane.sh/tags/argentine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Asian</title>
-      <link>http://localhost:1313/tags/asian/</link>
+      <link>https://recipes.lane.sh/tags/asian/</link>
       <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/asian/</guid>
+      <guid>https://recipes.lane.sh/tags/asian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bbq</title>
-      <link>http://localhost:1313/tags/bbq/</link>
+      <link>https://recipes.lane.sh/tags/bbq/</link>
       <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/bbq/</guid>
+      <guid>https://recipes.lane.sh/tags/bbq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beef</title>
-      <link>http://localhost:1313/tags/beef/</link>
+      <link>https://recipes.lane.sh/tags/beef/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/beef/</guid>
+      <guid>https://recipes.lane.sh/tags/beef/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Breakfast</title>
-      <link>http://localhost:1313/tags/breakfast/</link>
+      <link>https://recipes.lane.sh/tags/breakfast/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/breakfast/</guid>
+      <guid>https://recipes.lane.sh/tags/breakfast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chicken</title>
-      <link>http://localhost:1313/tags/chicken/</link>
+      <link>https://recipes.lane.sh/tags/chicken/</link>
       <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/chicken/</guid>
+      <guid>https://recipes.lane.sh/tags/chicken/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chocolate</title>
-      <link>http://localhost:1313/tags/chocolate/</link>
+      <link>https://recipes.lane.sh/tags/chocolate/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/chocolate/</guid>
+      <guid>https://recipes.lane.sh/tags/chocolate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cookies</title>
-      <link>http://localhost:1313/tags/cookies/</link>
+      <link>https://recipes.lane.sh/tags/cookies/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/cookies/</guid>
+      <guid>https://recipes.lane.sh/tags/cookies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dessert</title>
-      <link>http://localhost:1313/tags/dessert/</link>
+      <link>https://recipes.lane.sh/tags/dessert/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/dessert/</guid>
+      <guid>https://recipes.lane.sh/tags/dessert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Family</title>
-      <link>http://localhost:1313/tags/family/</link>
+      <link>https://recipes.lane.sh/tags/family/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/family/</guid>
+      <guid>https://recipes.lane.sh/tags/family/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fruit</title>
-      <link>http://localhost:1313/tags/fruit/</link>
+      <link>https://recipes.lane.sh/tags/fruit/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/fruit/</guid>
+      <guid>https://recipes.lane.sh/tags/fruit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fun</title>
-      <link>http://localhost:1313/tags/fun/</link>
+      <link>https://recipes.lane.sh/tags/fun/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/fun/</guid>
+      <guid>https://recipes.lane.sh/tags/fun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grill</title>
-      <link>http://localhost:1313/tags/grill/</link>
+      <link>https://recipes.lane.sh/tags/grill/</link>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/grill/</guid>
+      <guid>https://recipes.lane.sh/tags/grill/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Indian</title>
-      <link>http://localhost:1313/tags/indian/</link>
+      <link>https://recipes.lane.sh/tags/indian/</link>
       <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/indian/</guid>
+      <guid>https://recipes.lane.sh/tags/indian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Italian</title>
-      <link>http://localhost:1313/tags/italian/</link>
+      <link>https://recipes.lane.sh/tags/italian/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/italian/</guid>
+      <guid>https://recipes.lane.sh/tags/italian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mexican</title>
-      <link>http://localhost:1313/tags/mexican/</link>
+      <link>https://recipes.lane.sh/tags/mexican/</link>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/mexican/</guid>
+      <guid>https://recipes.lane.sh/tags/mexican/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mission</title>
-      <link>http://localhost:1313/tags/mission/</link>
+      <link>https://recipes.lane.sh/tags/mission/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/mission/</guid>
+      <guid>https://recipes.lane.sh/tags/mission/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pasta</title>
-      <link>http://localhost:1313/tags/pasta/</link>
+      <link>https://recipes.lane.sh/tags/pasta/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/pasta/</guid>
+      <guid>https://recipes.lane.sh/tags/pasta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pineapple</title>
-      <link>http://localhost:1313/tags/pineapple/</link>
+      <link>https://recipes.lane.sh/tags/pineapple/</link>
       <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/pineapple/</guid>
+      <guid>https://recipes.lane.sh/tags/pineapple/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pork</title>
-      <link>http://localhost:1313/tags/pork/</link>
+      <link>https://recipes.lane.sh/tags/pork/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/pork/</guid>
+      <guid>https://recipes.lane.sh/tags/pork/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poultry</title>
-      <link>http://localhost:1313/tags/poultry/</link>
+      <link>https://recipes.lane.sh/tags/poultry/</link>
       <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/poultry/</guid>
+      <guid>https://recipes.lane.sh/tags/poultry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rice</title>
-      <link>http://localhost:1313/tags/rice/</link>
+      <link>https://recipes.lane.sh/tags/rice/</link>
       <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/rice/</guid>
+      <guid>https://recipes.lane.sh/tags/rice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sandwich</title>
-      <link>http://localhost:1313/tags/sandwich/</link>
+      <link>https://recipes.lane.sh/tags/sandwich/</link>
       <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/sandwich/</guid>
+      <guid>https://recipes.lane.sh/tags/sandwich/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seafood</title>
-      <link>http://localhost:1313/tags/seafood/</link>
+      <link>https://recipes.lane.sh/tags/seafood/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/seafood/</guid>
+      <guid>https://recipes.lane.sh/tags/seafood/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Side</title>
-      <link>http://localhost:1313/tags/side/</link>
+      <link>https://recipes.lane.sh/tags/side/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/side/</guid>
+      <guid>https://recipes.lane.sh/tags/side/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slow Cooker</title>
-      <link>http://localhost:1313/tags/slow-cooker/</link>
+      <link>https://recipes.lane.sh/tags/slow-cooker/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/slow-cooker/</guid>
+      <guid>https://recipes.lane.sh/tags/slow-cooker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snack</title>
-      <link>http://localhost:1313/tags/snack/</link>
+      <link>https://recipes.lane.sh/tags/snack/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/snack/</guid>
+      <guid>https://recipes.lane.sh/tags/snack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sriracha</title>
-      <link>http://localhost:1313/tags/sriracha/</link>
+      <link>https://recipes.lane.sh/tags/sriracha/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/sriracha/</guid>
+      <guid>https://recipes.lane.sh/tags/sriracha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vegetable</title>
-      <link>http://localhost:1313/tags/vegetable/</link>
+      <link>https://recipes.lane.sh/tags/vegetable/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/vegetable/</guid>
+      <guid>https://recipes.lane.sh/tags/vegetable/</guid>
       <description></description>
     </item>
     

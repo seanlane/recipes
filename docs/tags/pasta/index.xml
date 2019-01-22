@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pasta on Lane Recipes</title>
-    <link>http://localhost:1313/tags/pasta/</link>
+    <link>https://recipes.lane.sh/tags/pasta/</link>
     <description>Recent content in Pasta on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Spaghetti Sauce</title>
-      <link>http://localhost:1313/recipes/spaghetti-sauce/</link>
+      <link>https://recipes.lane.sh/recipes/spaghetti-sauce/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/spaghetti-sauce/</guid>
+      <guid>https://recipes.lane.sh/recipes/spaghetti-sauce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Garlic Noodles</title>
-      <link>http://localhost:1313/components/garlic-noodles/</link>
+      <link>https://recipes.lane.sh/components/garlic-noodles/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/components/garlic-noodles/</guid>
+      <guid>https://recipes.lane.sh/components/garlic-noodles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>5 Cheese Mac N&#39; Cheese</title>
-      <link>http://localhost:1313/recipes/5-cheese-mac-n-cheese/</link>
+      <link>https://recipes.lane.sh/recipes/5-cheese-mac-n-cheese/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/5-cheese-mac-n-cheese/</guid>
+      <guid>https://recipes.lane.sh/recipes/5-cheese-mac-n-cheese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lemon Garlic Asparagus Pasta</title>
-      <link>http://localhost:1313/recipes/lemon-garlic-asparagus-pasta/</link>
+      <link>https://recipes.lane.sh/recipes/lemon-garlic-asparagus-pasta/</link>
       <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/lemon-garlic-asparagus-pasta/</guid>
+      <guid>https://recipes.lane.sh/recipes/lemon-garlic-asparagus-pasta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fettuccini Alfredo with Grilled Chicken</title>
-      <link>http://localhost:1313/recipes/fettuccine-alfredo-with-grilled-chicken/</link>
+      <link>https://recipes.lane.sh/recipes/fettuccine-alfredo-with-grilled-chicken/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/fettuccine-alfredo-with-grilled-chicken/</guid>
+      <guid>https://recipes.lane.sh/recipes/fettuccine-alfredo-with-grilled-chicken/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ginger Chicken with Garlic Noodles</title>
-      <link>http://localhost:1313/recipes/ginger-chicken-with-garlic-noodles/</link>
+      <link>https://recipes.lane.sh/recipes/ginger-chicken-with-garlic-noodles/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/ginger-chicken-with-garlic-noodles/</guid>
+      <guid>https://recipes.lane.sh/recipes/ginger-chicken-with-garlic-noodles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skinny Fettuccine Alfredo</title>
-      <link>http://localhost:1313/components/skinny-fettuccine-alfredo/</link>
+      <link>https://recipes.lane.sh/components/skinny-fettuccine-alfredo/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/components/skinny-fettuccine-alfredo/</guid>
+      <guid>https://recipes.lane.sh/components/skinny-fettuccine-alfredo/</guid>
       <description></description>
     </item>
     

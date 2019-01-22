@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chocolate on Lane Recipes</title>
-    <link>http://localhost:1313/tags/chocolate/</link>
+    <link>https://recipes.lane.sh/tags/chocolate/</link>
     <description>Recent content in Chocolate on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/chocolate/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/tags/chocolate/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nite Bites Brownies</title>
-      <link>http://localhost:1313/recipes/nite-bite-brownies/</link>
+      <link>https://recipes.lane.sh/recipes/nite-bite-brownies/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/nite-bite-brownies/</guid>
+      <guid>https://recipes.lane.sh/recipes/nite-bite-brownies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blondies</title>
-      <link>http://localhost:1313/recipes/blondies/</link>
+      <link>https://recipes.lane.sh/recipes/blondies/</link>
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/blondies/</guid>
+      <guid>https://recipes.lane.sh/recipes/blondies/</guid>
       <description>I can&amp;rsquo;t remember where I found this recipe, it simply lives on from a notebook I kept from my mission. Good for parties an thing, since it goes a long way and is easier to prep than cookies.</description>
     </item>
     
     <item>
       <title>Best Big, Fat, Chewy Chocolate Chip Cookie</title>
-      <link>http://localhost:1313/recipes/best-big-fat-chewy-chocolate-chip-cookie/</link>
+      <link>https://recipes.lane.sh/recipes/best-big-fat-chewy-chocolate-chip-cookie/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/best-big-fat-chewy-chocolate-chip-cookie/</guid>
+      <guid>https://recipes.lane.sh/recipes/best-big-fat-chewy-chocolate-chip-cookie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mmm Mmm Better Brownies</title>
-      <link>http://localhost:1313/recipes/mmm-mmm-better-brownies/</link>
+      <link>https://recipes.lane.sh/recipes/mmm-mmm-better-brownies/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/mmm-mmm-better-brownies/</guid>
+      <guid>https://recipes.lane.sh/recipes/mmm-mmm-better-brownies/</guid>
       <description></description>
     </item>
     

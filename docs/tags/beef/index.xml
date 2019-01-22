@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beef on Lane Recipes</title>
-    <link>http://localhost:1313/tags/beef/</link>
+    <link>https://recipes.lane.sh/tags/beef/</link>
     <description>Recent content in Beef on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/beef/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/tags/beef/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Chicken Fried Steak</title>
-      <link>http://localhost:1313/recipes/chicken-fried-steak/</link>
+      <link>https://recipes.lane.sh/recipes/chicken-fried-steak/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/chicken-fried-steak/</guid>
+      <guid>https://recipes.lane.sh/recipes/chicken-fried-steak/</guid>
       <description>The original recipe is a bit fancier, but these changes seem to still give a tasty dinner. Also check out the source recipe for a homemade gravy recipe.</description>
     </item>
     

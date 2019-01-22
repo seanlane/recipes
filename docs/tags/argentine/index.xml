@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Argentine on Lane Recipes</title>
-    <link>http://localhost:1313/tags/argentine/</link>
+    <link>https://recipes.lane.sh/tags/argentine/</link>
     <description>Recent content in Argentine on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/argentine/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/tags/argentine/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Chimichurri</title>
-      <link>http://localhost:1313/recipes/chimichurri/</link>
+      <link>https://recipes.lane.sh/recipes/chimichurri/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recipes/chimichurri/</guid>
+      <guid>https://recipes.lane.sh/recipes/chimichurri/</guid>
       <description>Additional Notes: I used dried oregano to save costs, but if you have fresh available 1-2 Tbsp fresh oregano leaves can be used in place of the dried.</description>
     </item>
     
