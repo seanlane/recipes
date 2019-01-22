@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entree on Lane Recipes</title>
-    <link>https://recipes.lane.sh/category/entree/</link>
+    <link>http://localhost:1313/category/entree/</link>
     <description>Recent content in Entree on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://recipes.lane.sh/category/entree/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/category/entree/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Red Thai Curry</title>
-      <link>https://recipes.lane.sh/recipes/red-thai-curry/</link>
+      <link>http://localhost:1313/recipes/red-thai-curry/</link>
       <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/red-thai-curry/</guid>
+      <guid>http://localhost:1313/recipes/red-thai-curry/</guid>
       <description>Sources used:
 http://makingthymeforhealth.com/one-pot-vegetable-thai-red-curry/ https://www.lettyskitchen.com/quick-and-easy-potatoes-in-coconut-red-curry-sauce/ https://www.epicurious.com/recipes/food/views/thai-chicken-curry-51140410 https://cookieandkate.com/2015/thai-red-curry-recipe/ https://damndelicious.net/2018/02/25/easy-thai-red-curry/</description>
     </item>
     
     <item>
       <title>Quick and Easy Feijoada</title>
-      <link>https://recipes.lane.sh/recipes/quick-and-easy-feijoada/</link>
+      <link>http://localhost:1313/recipes/quick-and-easy-feijoada/</link>
       <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/quick-and-easy-feijoada/</guid>
+      <guid>http://localhost:1313/recipes/quick-and-easy-feijoada/</guid>
       <description>Hearkens back to the mission. Note that I&amp;rsquo;ve modified this recipe a bit for personal preference. At the end, thicken with a cornstarch slurry as needed. Optionally use creole seasoning or similar instead of salt to add some further spice. Goes great with some sriracha or other hot sauce too.</description>
     </item>
     
     <item>
       <title>Spaghetti Sauce</title>
-      <link>https://recipes.lane.sh/recipes/spaghetti-sauce/</link>
+      <link>http://localhost:1313/recipes/spaghetti-sauce/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/spaghetti-sauce/</guid>
+      <guid>http://localhost:1313/recipes/spaghetti-sauce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>5 Cheese Mac N&#39; Cheese</title>
-      <link>https://recipes.lane.sh/recipes/5-cheese-mac-n-cheese/</link>
+      <link>http://localhost:1313/recipes/5-cheese-mac-n-cheese/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/5-cheese-mac-n-cheese/</guid>
+      <guid>http://localhost:1313/recipes/5-cheese-mac-n-cheese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lemon Garlic Asparagus Pasta</title>
-      <link>https://recipes.lane.sh/recipes/lemon-garlic-asparagus-pasta/</link>
+      <link>http://localhost:1313/recipes/lemon-garlic-asparagus-pasta/</link>
       <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/lemon-garlic-asparagus-pasta/</guid>
+      <guid>http://localhost:1313/recipes/lemon-garlic-asparagus-pasta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arroz Chaufa</title>
-      <link>https://recipes.lane.sh/recipes/arroz-chaufa/</link>
+      <link>http://localhost:1313/recipes/arroz-chaufa/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/arroz-chaufa/</guid>
+      <guid>http://localhost:1313/recipes/arroz-chaufa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Fried Pizza &#39;Donuts&#39;</title>
-      <link>https://recipes.lane.sh/recipes/deep-fried-pizza-doughnuts/</link>
+      <link>http://localhost:1313/recipes/deep-fried-pizza-doughnuts/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/deep-fried-pizza-doughnuts/</guid>
+      <guid>http://localhost:1313/recipes/deep-fried-pizza-doughnuts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ranch Chicken Rollups</title>
-      <link>https://recipes.lane.sh/recipes/ranch-chicken-rollups/</link>
+      <link>http://localhost:1313/recipes/ranch-chicken-rollups/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/ranch-chicken-rollups/</guid>
+      <guid>http://localhost:1313/recipes/ranch-chicken-rollups/</guid>
       <description></description>
     </item>
     

@@ -2,138 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Components on Lane Recipes</title>
-    <link>https://recipes.lane.sh/components/</link>
+    <link>http://localhost:1313/components/</link>
     <description>Recent content in Components on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://recipes.lane.sh/components/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/components/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Homemade Hummus</title>
-      <link>https://recipes.lane.sh/components/hummus/</link>
+      <link>http://localhost:1313/components/hummus/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/components/hummus/</guid>
+      <guid>http://localhost:1313/components/hummus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homemade Pita Chips</title>
-      <link>https://recipes.lane.sh/components/pita-chips/</link>
+      <link>http://localhost:1313/components/pita-chips/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/components/pita-chips/</guid>
+      <guid>http://localhost:1313/components/pita-chips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homemade Tahini</title>
-      <link>https://recipes.lane.sh/components/tahini/</link>
+      <link>http://localhost:1313/components/tahini/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/components/tahini/</guid>
+      <guid>http://localhost:1313/components/tahini/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Garlic Noodles</title>
-      <link>https://recipes.lane.sh/components/garlic-noodles/</link>
+      <link>http://localhost:1313/components/garlic-noodles/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/components/garlic-noodles/</guid>
+      <guid>http://localhost:1313/components/garlic-noodles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sticky Ginger Soy Glazed Chicken</title>
-      <link>https://recipes.lane.sh/components/sticky-ginger-soy-glazed-chicken/</link>
+      <link>http://localhost:1313/components/sticky-ginger-soy-glazed-chicken/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/components/sticky-ginger-soy-glazed-chicken/</guid>
+      <guid>http://localhost:1313/components/sticky-ginger-soy-glazed-chicken/</guid>
       <description>Notes: It is safe to cook used marinades as long as they come to a full boil, according to the FDA food safety guidelines. This thoroughly cooks the marinade, just like the raw chicken that was in it, to kill bacteria. The used marinade should be cooked immediately and should not be stored uncooked for later use. If concerned, double the marinade and use half for the chicken and reduce the other half in a small sauce pan before brushing it onto the chicken.</description>
     </item>
     
     <item>
       <title>Deep Fried Pizza Dough</title>
-      <link>https://recipes.lane.sh/components/deep-fried-pizza-dough/</link>
+      <link>http://localhost:1313/components/deep-fried-pizza-dough/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/components/deep-fried-pizza-dough/</guid>
+      <guid>http://localhost:1313/components/deep-fried-pizza-dough/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Fried Pizza Filling</title>
-      <link>https://recipes.lane.sh/components/deep-fried-pizza-filling/</link>
+      <link>http://localhost:1313/components/deep-fried-pizza-filling/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/components/deep-fried-pizza-filling/</guid>
+      <guid>http://localhost:1313/components/deep-fried-pizza-filling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mutti&#39;s Chicken</title>
-      <link>https://recipes.lane.sh/components/muttis-chicken/</link>
+      <link>http://localhost:1313/components/muttis-chicken/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/components/muttis-chicken/</guid>
+      <guid>http://localhost:1313/components/muttis-chicken/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mutti&#39;s Gravy</title>
-      <link>https://recipes.lane.sh/components/muttis-gravy/</link>
+      <link>http://localhost:1313/components/muttis-gravy/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/components/muttis-gravy/</guid>
+      <guid>http://localhost:1313/components/muttis-gravy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simply Grilled Chicken Breasts</title>
-      <link>https://recipes.lane.sh/components/simply-grilled-chicken-breasts/</link>
+      <link>http://localhost:1313/components/simply-grilled-chicken-breasts/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/components/simply-grilled-chicken-breasts/</guid>
+      <guid>http://localhost:1313/components/simply-grilled-chicken-breasts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skinny Fettuccine Alfredo</title>
-      <link>https://recipes.lane.sh/components/skinny-fettuccine-alfredo/</link>
+      <link>http://localhost:1313/components/skinny-fettuccine-alfredo/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/components/skinny-fettuccine-alfredo/</guid>
+      <guid>http://localhost:1313/components/skinny-fettuccine-alfredo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graham Cracker Crust</title>
-      <link>https://recipes.lane.sh/components/graham-cracker-crust/</link>
+      <link>http://localhost:1313/components/graham-cracker-crust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/components/graham-cracker-crust/</guid>
+      <guid>http://localhost:1313/components/graham-cracker-crust/</guid>
       <description>A simple graham cracker crust, perfect for cheesecakes or tarts.</description>
     </item>
     
     <item>
       <title>Red Berry Dessert Topping</title>
-      <link>https://recipes.lane.sh/components/red-berry-dessert-topping/</link>
+      <link>http://localhost:1313/components/red-berry-dessert-topping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/components/red-berry-dessert-topping/</guid>
+      <guid>http://localhost:1313/components/red-berry-dessert-topping/</guid>
       <description>A simple mash of berries, perfect for a tart or top of cheesecake.</description>
     </item>
     
     <item>
       <title>Vanilla Custard Filling</title>
-      <link>https://recipes.lane.sh/components/vanilla-custard-filling/</link>
+      <link>http://localhost:1313/components/vanilla-custard-filling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/components/vanilla-custard-filling/</guid>
+      <guid>http://localhost:1313/components/vanilla-custard-filling/</guid>
       <description>A simple vanilla custard filling, useful for tarts (or alone by itself in a bowl).</description>
     </item>
     

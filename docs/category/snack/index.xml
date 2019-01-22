@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snack on Lane Recipes</title>
-    <link>https://recipes.lane.sh/category/snack/</link>
+    <link>http://localhost:1313/category/snack/</link>
     <description>Recent content in Snack on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://recipes.lane.sh/category/snack/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/category/snack/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Homemade Hummus and Pita Chips</title>
-      <link>https://recipes.lane.sh/recipes/homemade-hummus-and-pita-chips/</link>
+      <link>http://localhost:1313/recipes/homemade-hummus-and-pita-chips/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/homemade-hummus-and-pita-chips/</guid>
+      <guid>http://localhost:1313/recipes/homemade-hummus-and-pita-chips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sriracha Egg Salad</title>
-      <link>https://recipes.lane.sh/recipes/sriracha-egg-salad/sriracha-egg-salad/</link>
+      <link>http://localhost:1313/recipes/sriracha-egg-salad/sriracha-egg-salad/</link>
       <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/sriracha-egg-salad/sriracha-egg-salad/</guid>
+      <guid>http://localhost:1313/recipes/sriracha-egg-salad/sriracha-egg-salad/</guid>
       <description></description>
     </item>
     

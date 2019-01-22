@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>American on Lane Recipes</title>
-    <link>https://recipes.lane.sh/cuisine/american/</link>
+    <link>http://localhost:1313/cuisine/american/</link>
     <description>Recent content in American on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://recipes.lane.sh/cuisine/american/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/cuisine/american/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Chicken Fried Steak</title>
-      <link>https://recipes.lane.sh/recipes/chicken-fried-steak/</link>
+      <link>http://localhost:1313/recipes/chicken-fried-steak/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/chicken-fried-steak/</guid>
+      <guid>http://localhost:1313/recipes/chicken-fried-steak/</guid>
       <description>The original recipe is a bit fancier, but these changes seem to still give a tasty dinner. Also check out the source recipe for a homemade gravy recipe.</description>
     </item>
     
     <item>
       <title>Skillet Pineapple BBQ Chicken</title>
-      <link>https://recipes.lane.sh/recipes/skillet-pineapple-bbq-chicken/</link>
+      <link>http://localhost:1313/recipes/skillet-pineapple-bbq-chicken/</link>
       <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/skillet-pineapple-bbq-chicken/</guid>
+      <guid>http://localhost:1313/recipes/skillet-pineapple-bbq-chicken/</guid>
       <description></description>
     </item>
     
     <item>
       <title>French Toast</title>
-      <link>https://recipes.lane.sh/recipes/french-toast/</link>
+      <link>http://localhost:1313/recipes/french-toast/</link>
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/french-toast/</guid>
+      <guid>http://localhost:1313/recipes/french-toast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sriracha Egg Salad</title>
-      <link>https://recipes.lane.sh/recipes/sriracha-egg-salad/sriracha-egg-salad/</link>
+      <link>http://localhost:1313/recipes/sriracha-egg-salad/sriracha-egg-salad/</link>
       <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/sriracha-egg-salad/sriracha-egg-salad/</guid>
+      <guid>http://localhost:1313/recipes/sriracha-egg-salad/sriracha-egg-salad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Fried Pizza &#39;Donuts&#39;</title>
-      <link>https://recipes.lane.sh/recipes/deep-fried-pizza-doughnuts/</link>
+      <link>http://localhost:1313/recipes/deep-fried-pizza-doughnuts/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/deep-fried-pizza-doughnuts/</guid>
+      <guid>http://localhost:1313/recipes/deep-fried-pizza-doughnuts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Easy Pancakes</title>
-      <link>https://recipes.lane.sh/recipes/easy-pancakes/</link>
+      <link>http://localhost:1313/recipes/easy-pancakes/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/easy-pancakes/</guid>
+      <guid>http://localhost:1313/recipes/easy-pancakes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mutti&#39;s Chicken &amp; Gravy</title>
-      <link>https://recipes.lane.sh/recipes/muttis-chicken-and-gravy/</link>
+      <link>http://localhost:1313/recipes/muttis-chicken-and-gravy/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/muttis-chicken-and-gravy/</guid>
+      <guid>http://localhost:1313/recipes/muttis-chicken-and-gravy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ranch Chicken Rollups</title>
-      <link>https://recipes.lane.sh/recipes/ranch-chicken-rollups/</link>
+      <link>http://localhost:1313/recipes/ranch-chicken-rollups/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/ranch-chicken-rollups/</guid>
+      <guid>http://localhost:1313/recipes/ranch-chicken-rollups/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sriracha Buttered Shrimp</title>
-      <link>https://recipes.lane.sh/recipes/sriracha-buttered-shrimp/</link>
+      <link>http://localhost:1313/recipes/sriracha-buttered-shrimp/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/sriracha-buttered-shrimp/</guid>
+      <guid>http://localhost:1313/recipes/sriracha-buttered-shrimp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sugar Baby Porkchops</title>
-      <link>https://recipes.lane.sh/recipes/sugar-baby-porkchops/</link>
+      <link>http://localhost:1313/recipes/sugar-baby-porkchops/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/sugar-baby-porkchops/</guid>
+      <guid>http://localhost:1313/recipes/sugar-baby-porkchops/</guid>
       <description></description>
     </item>
     

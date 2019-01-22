@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dessert on Lane Recipes</title>
-    <link>https://recipes.lane.sh/category/dessert/</link>
+    <link>http://localhost:1313/category/dessert/</link>
     <description>Recent content in Dessert on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://recipes.lane.sh/category/dessert/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/category/dessert/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nite Bites Brownies</title>
-      <link>https://recipes.lane.sh/recipes/nite-bite-brownies/</link>
+      <link>http://localhost:1313/recipes/nite-bite-brownies/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/nite-bite-brownies/</guid>
+      <guid>http://localhost:1313/recipes/nite-bite-brownies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blondies</title>
-      <link>https://recipes.lane.sh/recipes/blondies/</link>
+      <link>http://localhost:1313/recipes/blondies/</link>
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/blondies/</guid>
+      <guid>http://localhost:1313/recipes/blondies/</guid>
       <description>I can&amp;rsquo;t remember where I found this recipe, it simply lives on from a notebook I kept from my mission. Good for parties an thing, since it goes a long way and is easier to prep than cookies.</description>
     </item>
     
     <item>
       <title>Red Berry Tart</title>
-      <link>https://recipes.lane.sh/recipes/red-berry-tart/</link>
+      <link>http://localhost:1313/recipes/red-berry-tart/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/red-berry-tart/</guid>
+      <guid>http://localhost:1313/recipes/red-berry-tart/</guid>
       <description>A favorite when I go to BBQs (parties, hackathons, your folks&amp;rsquo; place), this red berry tart is fairly easy to make and packs a huge wow factor.</description>
     </item>
     
     <item>
       <title>Bananas in Coconut Cream</title>
-      <link>https://recipes.lane.sh/recipes/bananas-in-coconut-cream/</link>
+      <link>http://localhost:1313/recipes/bananas-in-coconut-cream/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/bananas-in-coconut-cream/</guid>
+      <guid>http://localhost:1313/recipes/bananas-in-coconut-cream/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Best Big, Fat, Chewy Chocolate Chip Cookie</title>
-      <link>https://recipes.lane.sh/recipes/best-big-fat-chewy-chocolate-chip-cookie/</link>
+      <link>http://localhost:1313/recipes/best-big-fat-chewy-chocolate-chip-cookie/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/best-big-fat-chewy-chocolate-chip-cookie/</guid>
+      <guid>http://localhost:1313/recipes/best-big-fat-chewy-chocolate-chip-cookie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mmm Mmm Better Brownies</title>
-      <link>https://recipes.lane.sh/recipes/mmm-mmm-better-brownies/</link>
+      <link>http://localhost:1313/recipes/mmm-mmm-better-brownies/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/mmm-mmm-better-brownies/</guid>
+      <guid>http://localhost:1313/recipes/mmm-mmm-better-brownies/</guid>
       <description></description>
     </item>
     
