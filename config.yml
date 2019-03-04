@@ -22,6 +22,7 @@ params:
   footercontent: 
   hidecredits: false
   hidecopyright: false
+  showNavTitle: true            # Boolean: show site title in nav bar
   custom_css: 
     - style.css
 menu:
