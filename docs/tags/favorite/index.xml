@@ -6,10 +6,19 @@
     <description>Recent content in Favorite on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Jan 2019 13:51:51 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2019 16:59:36 -0600</lastBuildDate>
     
 	<atom:link href="https://recipes.lane.sh/tags/favorite/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sausage and Veggies</title>
+      <link>https://recipes.lane.sh/recipes/sausage-and-veggies/</link>
+      <pubDate>Wed, 08 May 2019 16:59:36 -0600</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/sausage-and-veggies/</guid>
+      <description>Sean likes this on top of rice with some soy sauce and sriracha sauce. Ashley prefers a little Thai sweet chili sauce.</description>
+    </item>
     
     <item>
       <title>Mississippi Pot Roast</title>
