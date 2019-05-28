@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://recipes.lane.sh/recipes/spinach-chicken-stromboli/</loc>
+    <lastmod>2019-05-27T20:16:48-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://recipes.lane.sh/recipes/sausage-and-veggies/</loc>
     <lastmod>2019-05-08T16:59:36-06:00</lastmod>
   </url>
@@ -274,7 +279,7 @@
   
   <url>
     <loc>https://recipes.lane.sh/</loc>
-    <lastmod>2019-05-08T16:59:36-06:00</lastmod>
+    <lastmod>2019-05-27T20:16:48-06:00</lastmod>
   </url>
   
   <url>
@@ -387,13 +392,13 @@
   
   <url>
     <loc>https://recipes.lane.sh/category/dinner/</loc>
-    <lastmod>2019-05-08T16:59:36-06:00</lastmod>
+    <lastmod>2019-05-27T20:16:48-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/tags/easy/</loc>
-    <lastmod>2019-05-08T16:59:36-06:00</lastmod>
+    <lastmod>2019-05-27T20:16:48-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -423,7 +428,7 @@
   
   <url>
     <loc>https://recipes.lane.sh/tags/fun/</loc>
-    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-27T20:16:48-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -451,7 +456,7 @@
   
   <url>
     <loc>https://recipes.lane.sh/cuisine/italian/</loc>
-    <lastmod>2019-05-08T16:59:36-06:00</lastmod>
+    <lastmod>2019-05-27T20:16:48-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -511,7 +516,7 @@
   
   <url>
     <loc>https://recipes.lane.sh/recipes/</loc>
-    <lastmod>2019-05-08T16:59:36-06:00</lastmod>
+    <lastmod>2019-05-27T20:16:48-06:00</lastmod>
     <priority>0</priority>
   </url>
   
