@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Fettuccini Alfredo with Grilled Chicken"
-image: 
+image: grilled-chicken-alfredo.jpg
 imagecredit: 
 date: 2017-03-16
 

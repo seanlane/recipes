@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Homemade Hummus and Pita Chips"
-image: hummus-and-chips.jpg
+image: homemade-hummus-and-pita-chips.jpg
 imagecredit:
 date: 2018-01-21
 

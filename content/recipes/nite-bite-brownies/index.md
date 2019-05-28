@@ -1,8 +1,7 @@
 ---
 layout: recipe
 title:  "Nite Bites Brownies"
-image: 
-imagecredit: 
+image: nite-bite-brownies.jpg
 date: 2018-04-18
 
 authorName: Trevor

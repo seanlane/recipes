@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Mutti's Chicken & Gravy"
-image: 
+image: muttis-chicken.jpg
 imagecredit: 
 date: 2017-03-16
 

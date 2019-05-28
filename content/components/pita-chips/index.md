@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Homemade Pita Chips"
 image: pita-chips.jpg
-imagecredit:
+imagecredit: https://visualhunt.com/f2/photo/7563211638/e546dd59ac/
 date: 2018-01-21
 
 authorName: Ina Garten
