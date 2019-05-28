@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bread on Lane Recipes</title>
+    <link>https://recipes.lane.sh/category/bread/</link>
+    <description>Recent content in Bread on Lane Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 May 2019 21:29:14 -0600</lastBuildDate>
+    
+	<atom:link href="https://recipes.lane.sh/category/bread/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Homemade Soft Pretzels</title>
+      <link>https://recipes.lane.sh/recipes/homemade-soft-pretzels/</link>
+      <pubDate>Mon, 27 May 2019 21:29:14 -0600</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/homemade-soft-pretzels/</guid>
+      <description>If you don&amp;rsquo;t have pretzel salt, coarse sea salt will do.
+For use as empanadas (yes, that&amp;rsquo;s right, epic pretzel empanadas):
+ Instead of rolling into pretzels, divide the dough into 16 balls and roll flat into empanada discs. Place about 1&amp;frasl;4 cup of filling onto disc, fold disc overl, and use a fork to press the sides. Soak the filled empanadas in the soda water for 10-15 seconds, and remove with slotted spoon.</description>
+    </item>
+    
+  </channel>
+</rss>

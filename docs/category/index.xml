@@ -6,10 +6,19 @@
     <description>Recent content in Category on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2019 21:29:14 -0600</lastBuildDate>
     
 	<atom:link href="https://recipes.lane.sh/category/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bread</title>
+      <link>https://recipes.lane.sh/category/bread/</link>
+      <pubDate>Mon, 27 May 2019 21:29:14 -0600</pubDate>
+      
+      <guid>https://recipes.lane.sh/category/bread/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Breakfast</title>
@@ -41,7 +50,7 @@
     <item>
       <title>Entree</title>
       <link>https://recipes.lane.sh/category/entree/</link>
-      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 May 2019 20:46:16 -0600</pubDate>
       
       <guid>https://recipes.lane.sh/category/entree/</guid>
       <description></description>

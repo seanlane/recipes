@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://recipes.lane.sh/recipes/homemade-soft-pretzels/</loc>
+    <lastmod>2019-05-27T21:29:14-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/chicken-empanda-filling/</loc>
+    <lastmod>2019-05-27T20:46:16-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://recipes.lane.sh/recipes/spinach-chicken-stromboli/</loc>
     <lastmod>2019-05-27T20:16:48-06:00</lastmod>
   </url>
@@ -279,7 +289,7 @@
   
   <url>
     <loc>https://recipes.lane.sh/</loc>
-    <lastmod>2019-05-27T20:16:48-06:00</lastmod>
+    <lastmod>2019-05-27T21:29:14-06:00</lastmod>
   </url>
   
   <url>
@@ -325,6 +335,12 @@
   </url>
   
   <url>
+    <loc>https://recipes.lane.sh/category/bread/</loc>
+    <lastmod>2019-05-27T21:29:14-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://recipes.lane.sh/category/breakfast/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -338,7 +354,7 @@
   
   <url>
     <loc>https://recipes.lane.sh/category/</loc>
-    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-27T21:29:14-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -404,7 +420,7 @@
   
   <url>
     <loc>https://recipes.lane.sh/category/entree/</loc>
-    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-27T20:46:16-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -428,7 +444,13 @@
   
   <url>
     <loc>https://recipes.lane.sh/tags/fun/</loc>
-    <lastmod>2019-05-27T20:16:48-06:00</lastmod>
+    <lastmod>2019-05-27T20:46:16-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/german/</loc>
+    <lastmod>2019-05-27T21:29:14-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -516,7 +538,7 @@
   
   <url>
     <loc>https://recipes.lane.sh/recipes/</loc>
-    <lastmod>2019-05-27T20:16:48-06:00</lastmod>
+    <lastmod>2019-05-27T21:29:14-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -575,6 +597,12 @@
   <url>
     <loc>https://recipes.lane.sh/tags/snack/</loc>
     <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/south-american/</loc>
+    <lastmod>2019-05-27T20:46:16-06:00</lastmod>
     <priority>0</priority>
   </url>
   
