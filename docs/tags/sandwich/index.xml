@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sandwich on Lane Recipes</title>
+    <title>sandwich on Lane Recipes</title>
     <link>https://recipes.lane.sh/tags/sandwich/</link>
-    <description>Recent content in Sandwich on Lane Recipes</description>
+    <description>Recent content in sandwich on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2019 13:57:59 -0600</lastBuildDate>
     
 	<atom:link href="https://recipes.lane.sh/tags/sandwich/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quick Chicken Salad</title>
+      <link>https://recipes.lane.sh/recipes/quick-chicken-salad/</link>
+      <pubDate>Sun, 07 Jul 2019 13:57:59 -0600</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/quick-chicken-salad/</guid>
+      <description>Note that the only true requirements are probably the chicken, mayo, salt, and pepper, in case you happen to be missing certain things.</description>
+    </item>
     
     <item>
       <title>Sriracha Egg Salad</title>

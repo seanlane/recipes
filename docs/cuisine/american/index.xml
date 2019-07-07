@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>American on Lane Recipes</title>
+    <title>american on Lane Recipes</title>
     <link>https://recipes.lane.sh/cuisine/american/</link>
-    <description>Recent content in American on Lane Recipes</description>
+    <description>Recent content in american on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Jan 2019 13:51:51 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://recipes.lane.sh/cuisine/american/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Mississippi Pot Roast</title>
-      <link>https://recipes.lane.sh/recipes/mississippi-pot-roast/</link>
-      <pubDate>Sat, 26 Jan 2019 13:51:51 -0700</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/mississippi-pot-roast/</guid>
-      <description>We&amp;rsquo;ve personally found the searing portion of this recipe to not be strictly necessary, and if you like onions then adding a bed of onions to slow cooker with the juices can add some additional flavor. But it&amp;rsquo;s pretty optional as well, and allows for the recipe to be pretty flexible on the prep time.</description>
-    </item>
     
     <item>
       <title>Chicken Fried Steak</title>
@@ -98,15 +89,6 @@
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://recipes.lane.sh/recipes/sriracha-buttered-shrimp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sugar Baby Porkchops</title>
-      <link>https://recipes.lane.sh/recipes/sugar-baby-porkchops/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/sugar-baby-porkchops/</guid>
       <description></description>
     </item>
     

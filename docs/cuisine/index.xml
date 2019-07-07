@@ -6,31 +6,76 @@
     <description>Recent content in Cuisine on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Jan 2019 13:51:51 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2019 13:57:59 -0600</lastBuildDate>
     
 	<atom:link href="https://recipes.lane.sh/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>American</title>
+      <link>https://recipes.lane.sh/cuisine/American/</link>
+      <pubDate>Sun, 07 Jul 2019 13:57:59 -0600</pubDate>
+      
+      <guid>https://recipes.lane.sh/cuisine/American/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>German</title>
+      <link>https://recipes.lane.sh/cuisine/German/</link>
+      <pubDate>Mon, 27 May 2019 21:29:14 -0600</pubDate>
+      
+      <guid>https://recipes.lane.sh/cuisine/German/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South American</title>
+      <link>https://recipes.lane.sh/cuisine/South-American/</link>
+      <pubDate>Mon, 27 May 2019 20:46:16 -0600</pubDate>
+      
+      <guid>https://recipes.lane.sh/cuisine/South-American/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italian</title>
+      <link>https://recipes.lane.sh/cuisine/Italian/</link>
+      <pubDate>Mon, 27 May 2019 20:16:48 -0600</pubDate>
+      
+      <guid>https://recipes.lane.sh/cuisine/Italian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thai</title>
+      <link>https://recipes.lane.sh/cuisine/Thai/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/cuisine/Thai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creole</title>
+      <link>https://recipes.lane.sh/cuisine/Creole/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/cuisine/Creole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>american</title>
       <link>https://recipes.lane.sh/cuisine/american/</link>
-      <pubDate>Sat, 26 Jan 2019 13:51:51 -0700</pubDate>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://recipes.lane.sh/cuisine/american/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Argentine</title>
-      <link>https://recipes.lane.sh/cuisine/argentine/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/cuisine/argentine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brazilian</title>
+      <title>brazilian</title>
       <link>https://recipes.lane.sh/cuisine/brazilian/</link>
       <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
       
@@ -39,74 +84,56 @@
     </item>
     
     <item>
-      <title>Creole</title>
-      <link>https://recipes.lane.sh/cuisine/creole/</link>
-      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/cuisine/creole/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>German</title>
-      <link>https://recipes.lane.sh/cuisine/german/</link>
-      <pubDate>Mon, 27 May 2019 21:29:14 -0600</pubDate>
-      
-      <guid>https://recipes.lane.sh/cuisine/german/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Indian</title>
-      <link>https://recipes.lane.sh/cuisine/indian/</link>
-      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/cuisine/indian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Italian</title>
+      <title>italian</title>
       <link>https://recipes.lane.sh/cuisine/italian/</link>
-      <pubDate>Mon, 27 May 2019 20:16:48 -0600</pubDate>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://recipes.lane.sh/cuisine/italian/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>thai</title>
+      <link>https://recipes.lane.sh/cuisine/thai/</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/cuisine/thai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mexican</title>
-      <link>https://recipes.lane.sh/cuisine/mexican/</link>
+      <link>https://recipes.lane.sh/cuisine/Mexican/</link>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/cuisine/mexican/</guid>
+      <guid>https://recipes.lane.sh/cuisine/Mexican/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Argentine</title>
+      <link>https://recipes.lane.sh/cuisine/Argentine/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/cuisine/Argentine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peruvian</title>
-      <link>https://recipes.lane.sh/cuisine/peruvian/</link>
+      <link>https://recipes.lane.sh/cuisine/Peruvian/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/cuisine/peruvian/</guid>
+      <guid>https://recipes.lane.sh/cuisine/Peruvian/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>South American</title>
-      <link>https://recipes.lane.sh/cuisine/south-american/</link>
-      <pubDate>Mon, 27 May 2019 20:46:16 -0600</pubDate>
+      <title>indian</title>
+      <link>https://recipes.lane.sh/cuisine/indian/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/cuisine/south-american/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thai</title>
-      <link>https://recipes.lane.sh/cuisine/thai/</link>
-      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/cuisine/thai/</guid>
+      <guid>https://recipes.lane.sh/cuisine/indian/</guid>
       <description></description>
     </item>
     

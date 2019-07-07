@@ -6,10 +6,19 @@
     <description>Recent content in Recipes on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 May 2019 21:29:14 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2019 13:57:59 -0600</lastBuildDate>
     
 	<atom:link href="https://recipes.lane.sh/recipes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quick Chicken Salad</title>
+      <link>https://recipes.lane.sh/recipes/quick-chicken-salad/</link>
+      <pubDate>Sun, 07 Jul 2019 13:57:59 -0600</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/quick-chicken-salad/</guid>
+      <description>Note that the only true requirements are probably the chicken, mayo, salt, and pepper, in case you happen to be missing certain things.</description>
+    </item>
     
     <item>
       <title>Homemade Soft Pretzels</title>

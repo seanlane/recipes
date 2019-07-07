@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>South American on Lane Recipes</title>
-    <link>https://recipes.lane.sh/cuisine/south-american/</link>
+    <link>https://recipes.lane.sh/cuisine/South-American/</link>
     <description>Recent content in South American on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 May 2019 20:46:16 -0600</lastBuildDate>
     
-	<atom:link href="https://recipes.lane.sh/cuisine/south-american/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/cuisine/South-American/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

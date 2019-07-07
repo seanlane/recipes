@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sauce on Lane Recipes</title>
-    <link>https://recipes.lane.sh/category/sauce/</link>
+    <link>https://recipes.lane.sh/category/Sauce/</link>
     <description>Recent content in Sauce on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://recipes.lane.sh/category/sauce/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/category/Sauce/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
