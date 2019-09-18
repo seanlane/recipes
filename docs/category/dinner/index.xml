@@ -1,232 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dinner on Lane Recipes</title>
-    <link>https://recipes.lane.sh/category/dinner/</link>
-    <description>Recent content in dinner on Lane Recipes</description>
+    <title>Dinner on Lane Recipes</title>
+    <link>https://recipes.lane.sh/category/Dinner/</link>
+    <description>Recent content in Dinner on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 May 2019 16:59:36 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2019 20:16:48 -0600</lastBuildDate>
     
-	<atom:link href="https://recipes.lane.sh/category/dinner/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/category/Dinner/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Sausage and Veggies</title>
-      <link>https://recipes.lane.sh/recipes/sausage-and-veggies/</link>
-      <pubDate>Wed, 08 May 2019 16:59:36 -0600</pubDate>
+      <title>Spinach Chicken Stromboli</title>
+      <link>https://recipes.lane.sh/recipes/spinach-chicken-stromboli/</link>
+      <pubDate>Mon, 27 May 2019 20:16:48 -0600</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/sausage-and-veggies/</guid>
-      <description>Sean likes this on top of rice with some soy sauce and sriracha sauce. Ashley prefers a little Thai sweet chili sauce.</description>
+      <guid>https://recipes.lane.sh/recipes/spinach-chicken-stromboli/</guid>
+      <description>Be careful to avoid making the dough too thin in the center, otherwise it won&amp;rsquo;t be strong enough to hold the pieces together while dipping. This would probably be pretty awesome with some Pesto mixed into the toppings as well, but that&amp;rsquo;s future scientific research to perform.
+If you need to cook shredded chicken relatively quickly:
+ Heat a pan to medium-high heat. Drizzle about 1-2 teaspoons of olive oil into the pan.</description>
     </item>
     
     <item>
-      <title>Faux Jambalaya</title>
-      <link>https://recipes.lane.sh/recipes/faux-jambalaya/</link>
-      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <title>Mississippi Pot Roast</title>
+      <link>https://recipes.lane.sh/recipes/mississippi-pot-roast/</link>
+      <pubDate>Sat, 26 Jan 2019 13:51:51 -0700</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/faux-jambalaya/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chicken Fried Steak</title>
-      <link>https://recipes.lane.sh/recipes/chicken-fried-steak/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/chicken-fried-steak/</guid>
-      <description>The original recipe is a bit fancier, but these changes seem to still give a tasty dinner. Also check out the source recipe for a homemade gravy recipe.</description>
-    </item>
-    
-    <item>
-      <title>Classic Lasagna</title>
-      <link>https://recipes.lane.sh/recipes/classic-lasagna/</link>
-      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/classic-lasagna/</guid>
-      <description>You might need a bit more cottage or ricotta cheese, especially if splitting between smaller pans. Also, you will only get two levels deep if you don&amp;rsquo;t have a really deep pan. Our contribution to this recipe comes from Ashley&amp;rsquo;s mother, which is adding a package of spicy Italian sausage to give some additional flavor.</description>
-    </item>
-    
-    <item>
-      <title>Skillet Pineapple BBQ Chicken</title>
-      <link>https://recipes.lane.sh/recipes/skillet-pineapple-bbq-chicken/</link>
-      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/skillet-pineapple-bbq-chicken/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Garlic Noodles</title>
-      <link>https://recipes.lane.sh/components/garlic-noodles/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/components/garlic-noodles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thai Chicken</title>
-      <link>https://recipes.lane.sh/recipes/thai-chicken/</link>
-      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/thai-chicken/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grilled Chicken and Avocado Street Tacos</title>
-      <link>https://recipes.lane.sh/recipes/grilled-chicken-and-avocado-street-tacos/</link>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/grilled-chicken-and-avocado-street-tacos/</guid>
-      <description>Some good street tacos. If you don&amp;rsquo;t want to double up on the tortillas you&amp;rsquo;ll only need about 12.</description>
-    </item>
-    
-    <item>
-      <title>Baked Sweet Chili Garlic Popcorn Chicken</title>
-      <link>https://recipes.lane.sh/recipes/baked-sweet-chili-garlic-popcorn-chicken/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/baked-sweet-chili-garlic-popcorn-chicken/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chile Verde</title>
-      <link>https://recipes.lane.sh/recipes/chile-verde/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/chile-verde/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Creamy Garlic Parmesan Chicken</title>
-      <link>https://recipes.lane.sh/recipes/creamy-garlic-parmesan-chicken/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/creamy-garlic-parmesan-chicken/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crock Pot Red Beans and Rice</title>
-      <link>https://recipes.lane.sh/recipes/crock-pot-red-beans-and-rice/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/crock-pot-red-beans-and-rice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Easy Crockpot Sriracha Honey Chicken Wings</title>
-      <link>https://recipes.lane.sh/recipes/easy-crockpot-sriracha-honey-chicken-wings/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/easy-crockpot-sriracha-honey-chicken-wings/</guid>
-      <description>Additional Notes:
-You can use fresh wings. Cook time would be 3-4 hours on low or 1 to 2 hours on high. Additionally, when using fresh your sauce will cook quicker. Approximately 3-5 minutes.
-Instead of cooking the sauce down and broiling it you can mix up 2 tablespoons corn starch and 2 tablespoons water in a resealable container and shake it really well. Pour slurry into crockpot then cook an additional 30 minutes on high.</description>
-    </item>
-    
-    <item>
-      <title>Fettuccini Alfredo with Grilled Chicken</title>
-      <link>https://recipes.lane.sh/recipes/fettuccine-alfredo-with-grilled-chicken/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/fettuccine-alfredo-with-grilled-chicken/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ginger Chicken with Garlic Noodles</title>
-      <link>https://recipes.lane.sh/recipes/ginger-chicken-with-garlic-noodles/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/ginger-chicken-with-garlic-noodles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Healthy Roasted Chicken &amp; Vegtables</title>
-      <link>https://recipes.lane.sh/recipes/healthy-roasted-chicken-and-vegetables/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/healthy-roasted-chicken-and-vegetables/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kielbasa and Cabbage</title>
-      <link>https://recipes.lane.sh/recipes/kielbasa-and-cabbage/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/kielbasa-and-cabbage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mutti&#39;s Chicken</title>
-      <link>https://recipes.lane.sh/components/muttis-chicken/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/components/muttis-chicken/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mutti&#39;s Chicken &amp; Gravy</title>
-      <link>https://recipes.lane.sh/recipes/muttis-chicken-and-gravy/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/muttis-chicken-and-gravy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simply Grilled Chicken Breasts</title>
-      <link>https://recipes.lane.sh/components/simply-grilled-chicken-breasts/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/components/simply-grilled-chicken-breasts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Skinny Fettuccine Alfredo</title>
-      <link>https://recipes.lane.sh/components/skinny-fettuccine-alfredo/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/components/skinny-fettuccine-alfredo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sriracha Buttered Shrimp</title>
-      <link>https://recipes.lane.sh/recipes/sriracha-buttered-shrimp/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/sriracha-buttered-shrimp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sugar Baby Porkchops</title>
-      <link>https://recipes.lane.sh/recipes/sugar-baby-porkchops/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/sugar-baby-porkchops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slow Cooker Tikka Masala</title>
-      <link>https://recipes.lane.sh/recipes/slow-cooker-tikka-masala/</link>
-      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/slow-cooker-tikka-masala/</guid>
-      <description></description>
+      <guid>https://recipes.lane.sh/recipes/mississippi-pot-roast/</guid>
+      <description>We&amp;rsquo;ve personally found the searing portion of this recipe to not be strictly necessary, and if you like onions then adding a bed of onions to slow cooker with the juices can add some additional flavor. But it&amp;rsquo;s pretty optional as well, and allows for the recipe to be pretty flexible on the prep time.</description>
     </item>
     
   </channel>

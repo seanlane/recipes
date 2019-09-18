@@ -1,94 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>american on Lane Recipes</title>
-    <link>https://recipes.lane.sh/cuisine/american/</link>
-    <description>Recent content in american on Lane Recipes</description>
+    <title>American on Lane Recipes</title>
+    <link>https://recipes.lane.sh/cuisine/American/</link>
+    <description>Recent content in American on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2019 13:57:59 -0600</lastBuildDate>
     
-	<atom:link href="https://recipes.lane.sh/cuisine/american/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/cuisine/American/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Chicken Fried Steak</title>
-      <link>https://recipes.lane.sh/recipes/chicken-fried-steak/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Quick Chicken Salad</title>
+      <link>https://recipes.lane.sh/recipes/quick-chicken-salad/</link>
+      <pubDate>Sun, 07 Jul 2019 13:57:59 -0600</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/chicken-fried-steak/</guid>
-      <description>The original recipe is a bit fancier, but these changes seem to still give a tasty dinner. Also check out the source recipe for a homemade gravy recipe.</description>
+      <guid>https://recipes.lane.sh/recipes/quick-chicken-salad/</guid>
+      <description>Note that the only true requirements are probably the chicken, mayo, salt, and pepper, in case you happen to be missing certain things.</description>
     </item>
     
     <item>
-      <title>Skillet Pineapple BBQ Chicken</title>
-      <link>https://recipes.lane.sh/recipes/skillet-pineapple-bbq-chicken/</link>
-      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      <title>Mississippi Pot Roast</title>
+      <link>https://recipes.lane.sh/recipes/mississippi-pot-roast/</link>
+      <pubDate>Sat, 26 Jan 2019 13:51:51 -0700</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/skillet-pineapple-bbq-chicken/</guid>
-      <description></description>
+      <guid>https://recipes.lane.sh/recipes/mississippi-pot-roast/</guid>
+      <description>We&amp;rsquo;ve personally found the searing portion of this recipe to not be strictly necessary, and if you like onions then adding a bed of onions to slow cooker with the juices can add some additional flavor. But it&amp;rsquo;s pretty optional as well, and allows for the recipe to be pretty flexible on the prep time.</description>
     </item>
     
     <item>
-      <title>French Toast</title>
-      <link>https://recipes.lane.sh/recipes/french-toast/</link>
-      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/french-toast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sriracha Egg Salad</title>
-      <link>https://recipes.lane.sh/recipes/sriracha-egg-salad/</link>
-      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/sriracha-egg-salad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Fried Pizza &#39;Donuts&#39;</title>
-      <link>https://recipes.lane.sh/recipes/deep-fried-pizza-doughnuts/</link>
+      <title>Sugar Baby Porkchops</title>
+      <link>https://recipes.lane.sh/recipes/sugar-baby-porkchops/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/deep-fried-pizza-doughnuts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Easy Pancakes</title>
-      <link>https://recipes.lane.sh/recipes/easy-pancakes/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/easy-pancakes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mutti&#39;s Chicken &amp; Gravy</title>
-      <link>https://recipes.lane.sh/recipes/muttis-chicken-and-gravy/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/muttis-chicken-and-gravy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ranch Chicken Rollups</title>
-      <link>https://recipes.lane.sh/recipes/ranch-chicken-rollups/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/ranch-chicken-rollups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sriracha Buttered Shrimp</title>
-      <link>https://recipes.lane.sh/recipes/sriracha-buttered-shrimp/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/recipes/sriracha-buttered-shrimp/</guid>
+      <guid>https://recipes.lane.sh/recipes/sugar-baby-porkchops/</guid>
       <description></description>
     </item>
     

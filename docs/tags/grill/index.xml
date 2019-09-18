@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Grill on Lane Recipes</title>
-    <link>https://recipes.lane.sh/tags/Grill/</link>
-    <description>Recent content in Grill on Lane Recipes</description>
+    <title>grill on Lane Recipes</title>
+    <link>https://recipes.lane.sh/tags/grill/</link>
+    <description>Recent content in grill on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://recipes.lane.sh/tags/Grill/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/tags/grill/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Fettuccini Alfredo with Grilled Chicken</title>
-      <link>https://recipes.lane.sh/recipes/fettuccine-alfredo-with-grilled-chicken/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      <title>Grilled Chicken and Avocado Street Tacos</title>
+      <link>https://recipes.lane.sh/recipes/grilled-chicken-and-avocado-street-tacos/</link>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/fettuccine-alfredo-with-grilled-chicken/</guid>
-      <description></description>
+      <guid>https://recipes.lane.sh/recipes/grilled-chicken-and-avocado-street-tacos/</guid>
+      <description>Some good street tacos. If you don&amp;rsquo;t want to double up on the tortillas you&amp;rsquo;ll only need about 12.</description>
     </item>
     
   </channel>

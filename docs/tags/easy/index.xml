@@ -1,32 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Easy on Lane Recipes</title>
-    <link>https://recipes.lane.sh/tags/Easy/</link>
-    <description>Recent content in Easy on Lane Recipes</description>
+    <title>easy on Lane Recipes</title>
+    <link>https://recipes.lane.sh/tags/easy/</link>
+    <description>Recent content in easy on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 May 2019 16:59:36 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2019 13:57:59 -0600</lastBuildDate>
     
-	<atom:link href="https://recipes.lane.sh/tags/Easy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/tags/easy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Sausage and Veggies</title>
-      <link>https://recipes.lane.sh/recipes/sausage-and-veggies/</link>
-      <pubDate>Wed, 08 May 2019 16:59:36 -0600</pubDate>
+      <title>Quick Chicken Salad</title>
+      <link>https://recipes.lane.sh/recipes/quick-chicken-salad/</link>
+      <pubDate>Sun, 07 Jul 2019 13:57:59 -0600</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/sausage-and-veggies/</guid>
-      <description>Sean likes this on top of rice with some soy sauce and sriracha sauce. Ashley prefers a little Thai sweet chili sauce.</description>
+      <guid>https://recipes.lane.sh/recipes/quick-chicken-salad/</guid>
+      <description>Note that the only true requirements are probably the chicken, mayo, salt, and pepper, in case you happen to be missing certain things.</description>
     </item>
     
     <item>
-      <title>Mississippi Pot Roast</title>
-      <link>https://recipes.lane.sh/recipes/mississippi-pot-roast/</link>
-      <pubDate>Sat, 26 Jan 2019 13:51:51 -0700</pubDate>
+      <title>Spinach Chicken Stromboli</title>
+      <link>https://recipes.lane.sh/recipes/spinach-chicken-stromboli/</link>
+      <pubDate>Mon, 27 May 2019 20:16:48 -0600</pubDate>
       
-      <guid>https://recipes.lane.sh/recipes/mississippi-pot-roast/</guid>
-      <description>We&amp;rsquo;ve personally found the searing portion of this recipe to not be strictly necessary, and if you like onions then adding a bed of onions to slow cooker with the juices can add some additional flavor. But it&amp;rsquo;s pretty optional as well, and allows for the recipe to be pretty flexible on the prep time.</description>
+      <guid>https://recipes.lane.sh/recipes/spinach-chicken-stromboli/</guid>
+      <description>Be careful to avoid making the dough too thin in the center, otherwise it won&amp;rsquo;t be strong enough to hold the pieces together while dipping. This would probably be pretty awesome with some Pesto mixed into the toppings as well, but that&amp;rsquo;s future scientific research to perform.
+If you need to cook shredded chicken relatively quickly:
+ Heat a pan to medium-high heat. Drizzle about 1-2 teaspoons of olive oil into the pan.</description>
     </item>
     
   </channel>
