@@ -335,23 +335,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>chicken</title>
-      <link>https://recipes.lane.sh/tags/chicken/</link>
-      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/tags/chicken/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>indian</title>
-      <link>https://recipes.lane.sh/tags/indian/</link>
-      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/tags/indian/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

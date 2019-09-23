@@ -169,12 +169,12 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/tags/dessert/</loc>
+    <loc>https://recipes.lane.sh/category/dessert/</loc>
     <lastmod>2018-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/category/dessert/</loc>
+    <loc>https://recipes.lane.sh/tags/dessert/</loc>
     <lastmod>2018-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -311,11 +311,6 @@
   <url>
     <loc>https://recipes.lane.sh/components/sticky-ginger-soy-glazed-chicken/</loc>
     <lastmod>2017-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/5-cheese-mac-n-cheese/</loc>
-    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -556,26 +551,6 @@
   <url>
     <loc>https://recipes.lane.sh/recipes/sugar-baby-porkchops/</loc>
     <lastmod>2017-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/tags/chicken/</loc>
-    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/cuisine/indian/</loc>
-    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/tags/indian/</loc>
-    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/slow-cooker-tikka-masala/</loc>
-    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
