@@ -4,22 +4,52 @@
   
   <url>
     <loc>https://recipes.lane.sh/</loc>
-    <lastmod>2019-07-07T13:57:59-06:00</lastmod>
+    <lastmod>2019-09-22T20:17:55-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/cuisine/American/</loc>
-    <lastmod>2019-07-07T13:57:59-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://recipes.lane.sh/category/</loc>
-    <lastmod>2019-07-07T13:57:59-06:00</lastmod>
+    <lastmod>2019-09-22T20:17:55-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/cuisine/</loc>
+    <lastmod>2019-09-22T20:17:55-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/Entree/</loc>
+    <lastmod>2019-09-22T20:17:55-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/Indian/</loc>
+    <lastmod>2019-09-22T20:17:55-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/Instant-Pot/</loc>
+    <lastmod>2019-09-22T20:17:55-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/instant-pot-butter-chicken/</loc>
+    <lastmod>2019-09-22T20:17:55-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/</loc>
+    <lastmod>2019-09-22T20:17:55-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/</loc>
+    <lastmod>2019-09-22T20:17:55-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/American/</loc>
     <lastmod>2019-07-07T13:57:59-06:00</lastmod>
   </url>
   
@@ -34,22 +64,12 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/recipes/</loc>
-    <lastmod>2019-07-07T13:57:59-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://recipes.lane.sh/category/Sandwich/</loc>
     <lastmod>2019-07-07T13:57:59-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/tags/sandwich/</loc>
-    <lastmod>2019-07-07T13:57:59-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/tags/</loc>
     <lastmod>2019-07-07T13:57:59-06:00</lastmod>
   </url>
   
@@ -70,11 +90,6 @@
   
   <url>
     <loc>https://recipes.lane.sh/recipes/chicken-empanda-filling/</loc>
-    <lastmod>2019-05-27T20:46:16-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/category/entree/</loc>
     <lastmod>2019-05-27T20:46:16-06:00</lastmod>
   </url>
   
@@ -149,12 +164,12 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/tags/side/</loc>
+    <loc>https://recipes.lane.sh/category/side/</loc>
     <lastmod>2018-05-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/category/side/</loc>
+    <loc>https://recipes.lane.sh/tags/side/</loc>
     <lastmod>2018-05-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -169,12 +184,12 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/category/dessert/</loc>
+    <loc>https://recipes.lane.sh/tags/dessert/</loc>
     <lastmod>2018-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/tags/dessert/</loc>
+    <loc>https://recipes.lane.sh/category/dessert/</loc>
     <lastmod>2018-04-18T00:00:00+00:00</lastmod>
   </url>
   
