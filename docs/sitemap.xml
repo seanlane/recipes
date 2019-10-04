@@ -359,22 +359,22 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/tags/Mexican/</loc>
-    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://recipes.lane.sh/cuisine/Mexican/</loc>
     <lastmod>2017-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/cuisine/Argentine/</loc>
-    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <loc>https://recipes.lane.sh/tags/Mexican/</loc>
+    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/tags/Argentine/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/Argentine/</loc>
     <lastmod>2017-03-16T00:00:00+00:00</lastmod>
   </url>
   
