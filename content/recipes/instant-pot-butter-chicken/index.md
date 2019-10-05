@@ -1,7 +1,6 @@
 ---
 layout: recipe
-date: 2019-09-22T20:17:55-06:00
-draft: true    
+date: 2019-09-22T20:17:55-06:00    
 title:  "Instant Pot Butter Chicken" # The title of your awesome recipe
 image: instant-pot-butter-chicken.jpg # Name of image in recipe bundle
 imagecredit: https://placekitten.com/600/800 # URL to image source page, website, or creator
