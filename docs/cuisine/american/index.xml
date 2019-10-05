@@ -6,10 +6,19 @@
     <description>Recent content in American on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jul 2019 13:57:59 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2019 13:46:01 -0600</lastBuildDate>
     
 	<atom:link href="https://recipes.lane.sh/cuisine/American/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pot Roast</title>
+      <link>https://recipes.lane.sh/recipes/pot-roast/</link>
+      <pubDate>Sat, 05 Oct 2019 13:46:01 -0600</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/pot-roast/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quick Chicken Salad</title>

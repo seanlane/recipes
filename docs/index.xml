@@ -6,10 +6,19 @@
     <description>Recent content on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Sep 2019 20:17:55 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2019 13:46:01 -0600</lastBuildDate>
     
 	<atom:link href="https://recipes.lane.sh/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pot Roast</title>
+      <link>https://recipes.lane.sh/recipes/pot-roast/</link>
+      <pubDate>Sat, 05 Oct 2019 13:46:01 -0600</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/pot-roast/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Instant Pot Butter Chicken</title>
