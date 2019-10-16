@@ -4,22 +4,42 @@
   
   <url>
     <loc>https://recipes.lane.sh/</loc>
-    <lastmod>2019-10-05T13:46:01-06:00</lastmod>
+    <lastmod>2019-10-16T09:30:28-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/cuisine/American/</loc>
-    <lastmod>2019-10-05T13:46:01-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://recipes.lane.sh/category/</loc>
-    <lastmod>2019-10-05T13:46:01-06:00</lastmod>
+    <lastmod>2019-10-16T09:30:28-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/cuisine/</loc>
+    <lastmod>2019-10-16T09:30:28-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/green-chicken-chili/</loc>
+    <lastmod>2019-10-16T09:30:28-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/</loc>
+    <lastmod>2019-10-16T09:30:28-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/</loc>
+    <lastmod>2019-10-16T09:30:28-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/Texmex/</loc>
+    <lastmod>2019-10-16T09:30:28-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/American/</loc>
     <lastmod>2019-10-05T13:46:01-06:00</lastmod>
   </url>
   
@@ -30,16 +50,6 @@
   
   <url>
     <loc>https://recipes.lane.sh/recipes/pot-roast/</loc>
-    <lastmod>2019-10-05T13:46:01-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/</loc>
-    <lastmod>2019-10-05T13:46:01-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/tags/</loc>
     <lastmod>2019-10-05T13:46:01-06:00</lastmod>
   </url>
   
@@ -169,12 +179,12 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/tags/side/</loc>
+    <loc>https://recipes.lane.sh/category/side/</loc>
     <lastmod>2018-05-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/category/side/</loc>
+    <loc>https://recipes.lane.sh/tags/side/</loc>
     <lastmod>2018-05-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -189,12 +199,12 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/category/dessert/</loc>
+    <loc>https://recipes.lane.sh/tags/dessert/</loc>
     <lastmod>2018-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/tags/dessert/</loc>
+    <loc>https://recipes.lane.sh/category/dessert/</loc>
     <lastmod>2018-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -379,22 +389,22 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/tags/Mexican/</loc>
-    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://recipes.lane.sh/cuisine/Mexican/</loc>
     <lastmod>2017-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/cuisine/Argentine/</loc>
-    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <loc>https://recipes.lane.sh/tags/Mexican/</loc>
+    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/tags/Argentine/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/Argentine/</loc>
     <lastmod>2017-03-16T00:00:00+00:00</lastmod>
   </url>
   
