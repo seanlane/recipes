@@ -20,11 +20,13 @@ ingredients:
 - 1 teaspoon olive oil
 - 1 package (19.5 ounce) turkey italian sausage links, removed from casing
 - 1 small yellow onion, diced (about 1/2 cup)
-- 1 clove garlic
+- 3 cloves garlic, minced
 - 3 cups low-sodium chicken broth (see note)
 - 12-16 ounces whole wheat penne pasta
 - 1 can (28 ounce) diced tomatoes
-- 2 teaspoons dried oregano
+- 1 tablespoon dried oregano
+- 1/2 tablespoon dried basil
+- 1/4 teaspoon dried red pepper flakes
 - 6 ounces baby spinach
 - 1 cup shredded mozzarella cheese, extra for garnishing
 - parsley, for garnishing
@@ -40,5 +42,7 @@ directions:
 - Add 1 cup mozzarella cheese and stir to melt. If the sauce appears thin, let set for 5-10 minutes, it will thicken.
 
 ---
+
+This recipe is primarily based on https://www.rachelcooks.com/2018/03/12/instant-pot-pasta-sausage-spinach/, but with some further inspiration from https://www.budgetbytes.com/italian-wonderpot/.
 
 You can also use Pork Sausage links, or a regular package of sausage as well. Drain extra grease before adding pasta if needed. You can experiment with using sweet or spicy sausage as well, depending on what you like.
