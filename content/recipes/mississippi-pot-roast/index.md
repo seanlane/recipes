@@ -1,7 +1,6 @@
 ---
 layout: recipe
-date: 2019-01-26T13:51:51-07:00
-draft: false   
+date: 2019-01-26T13:51:51-07:00  
 title: "Mississippi Pot Roast" # The title of your awesome recipe
 image: mississippi-pot-roast.jpg
 imagecredit: # URL to image source page, website, or creator
@@ -27,7 +26,7 @@ ingredients:
 - 1 packet ranch dressing mix
 - 1 packet dry onion soup mix
 - 1/2 cup (1 stick) butter – REAL salted butter not margarine
-- 6 pepperoncini peppers
+- 6-10 pepperoncini peppers
 - (Optional) 1 small to medium onion
 
 directions:
@@ -36,7 +35,10 @@ directions:
 - Once the skillet is nice and hot, add the roast. You want the skillet to be really hot to brown or "sear" the roast quickly.
 - Allow the roast to cook for about 2-3 minutes until it is golden brown. Using tongs, flip the meat over and sear the other side of the roast for another 2-3 minutes. 
 - (Optional) Slice the onion into rings or half rings, and lay on the bottom of the slow cooker to form a bed for the roast to lay on as it cooks.
-- Transfer meat to slow cooker. Sprinkle packets of dry ranch dressing and onion soup mixes over roast. Top with a stick of butter then place peppers on and around roast.
+- Transfer meat to slow cooker. 
+- Sprinkle packets of dry ranch dressing and onion soup mixes over roast. 
+- Top with a stick of butter (or cut the stick up and place pieces on top) then place peppers on and around roast.
+- (Optional) Pour some of the pepperoncini juice from the jar on top of the roast.
 - Cover and cook on low for 6 hours. 
 - After it's cooked, take two forks and start shredding the meat.
 - Discard any big fatty pieces. Place pork back into the slow cooker and stir well in the juices to coat.

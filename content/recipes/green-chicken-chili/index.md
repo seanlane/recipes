@@ -19,6 +19,7 @@ ingredients:
 - 1 teaspoon cumin
 - 1 teaspoon dried oregano
 - 1 teaspoon kosher salt
+- 1 teaspoon paprika
 - 1/2 to 1 teaspoon of ground black pepper
 - 2 15 oz. cans of white kidney (aka cannellini) beans, drained and rinsed.
 - 15 oz can (or about 2 cups) of chicken broth
@@ -45,7 +46,7 @@ I derived this recipe from combining a couple of recipes:
 * https://simpleasthatblog.com/instant-pot-green-chicken-chili/
 * https://www.allrecipes.com/recipe/263617/chef-johns-green-chicken-chili/
 
-We didn't have chipotle powder on hand, so I used Paprika as a substitute, and skipped the chile powder that was also mentioned to keep the heat down. I'd describe it as not spicy for anyone who normally enjoys spicy foods, and mild for those who are sensitive to it. If you want to make it spicy, using spicier green salsas, keeping the jalapeño seeds, or using more/different peppers can all do that. 
+We didn't have chipotle powder on hand, so I used paprika as a substitute, and skipped the chile powder that was also mentioned to keep the heat down. I'd describe it as not spicy for anyone who normally enjoys spicy foods, and mild for those who are sensitive to it. If you want to make it spicy, using spicier green salsas, keeping the jalapeño seeds, or using more/different peppers can all do that. 
 
 This recipe can easily be adopted to a slow cooker or stove top pot as well, but using an Instant Pot or pressure cooker will minimize prep time.
 
