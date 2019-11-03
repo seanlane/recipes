@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  "Garlic Aioli"
+title: "Garlic Aioli"
 image: garlic-aioli.jpg
 date: 2019-11-02
 authorName: Jeff & Justine
@@ -10,7 +10,7 @@ sourceURL: https://www.allrecipes.com/recipe/213608/garlic-aioli/
 category: Sauce
 cuisine: Mediterranean
 tags:
-	- sauce
+  - sauce
 yield: 6
 prepTime: 35
 cookTime: 
