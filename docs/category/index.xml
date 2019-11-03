@@ -6,10 +6,28 @@
     <description>Recent content in Category on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Oct 2019 09:30:28 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2019 13:04:18 -0700</lastBuildDate>
     
 	<atom:link href="https://recipes.lane.sh/category/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Entree</title>
+      <link>https://recipes.lane.sh/category/Entree/</link>
+      <pubDate>Sun, 03 Nov 2019 13:04:18 -0700</pubDate>
+      
+      <guid>https://recipes.lane.sh/category/Entree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sauce</title>
+      <link>https://recipes.lane.sh/category/Sauce/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/category/Sauce/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>entree</title>
@@ -17,15 +35,6 @@
       <pubDate>Wed, 16 Oct 2019 09:30:28 -0600</pubDate>
       
       <guid></guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Entree</title>
-      <link>https://recipes.lane.sh/category/Entree/</link>
-      <pubDate>Sat, 05 Oct 2019 13:46:01 -0600</pubDate>
-      
-      <guid>https://recipes.lane.sh/category/Entree/</guid>
       <description></description>
     </item>
     
@@ -107,15 +116,6 @@
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid></guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sauce</title>
-      <link>https://recipes.lane.sh/category/Sauce/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/category/Sauce/</guid>
       <description></description>
     </item>
     

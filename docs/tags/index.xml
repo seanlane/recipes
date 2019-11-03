@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Oct 2019 09:30:28 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2019 13:04:18 -0700</lastBuildDate>
     
 	<atom:link href="https://recipes.lane.sh/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>instantpot</title>
+      <link>https://recipes.lane.sh/tags/instantpot/</link>
+      <pubDate>Sun, 03 Nov 2019 13:04:18 -0700</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/instantpot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pasta</title>
+      <link>https://recipes.lane.sh/tags/pasta/</link>
+      <pubDate>Sun, 03 Nov 2019 13:04:18 -0700</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/pasta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sauce</title>
+      <link>https://recipes.lane.sh/tags/sauce/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/sauce/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>instant pot</title>
@@ -224,15 +251,6 @@
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://recipes.lane.sh/tags/breakfast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pasta</title>
-      <link>https://recipes.lane.sh/tags/pasta/</link>
-      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/tags/pasta/</guid>
       <description></description>
     </item>
     
