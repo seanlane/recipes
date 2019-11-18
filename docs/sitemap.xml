@@ -4,18 +4,53 @@
   
   <url>
     <loc>https://recipes.lane.sh/</loc>
-    <lastmod>2019-11-03T13:04:18-07:00</lastmod>
+    <lastmod>2019-11-17T19:50:05-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/category/</loc>
-    <lastmod>2019-11-03T13:04:18-07:00</lastmod>
+    <lastmod>2019-11-17T19:50:05-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/cuisine/</loc>
-    <lastmod>2019-11-03T13:04:18-07:00</lastmod>
+    <lastmod>2019-11-17T19:50:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/Mediterranean/</loc>
+    <lastmod>2019-11-17T19:50:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/</loc>
+    <lastmod>2019-11-17T19:50:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/rice/</loc>
+    <lastmod>2019-11-17T19:50:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/side/</loc>
+    <lastmod>2019-11-17T19:50:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/Side-dish/</loc>
+    <lastmod>2019-11-17T19:50:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/</loc>
+    <lastmod>2019-11-17T19:50:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/tumeric-rice/</loc>
+    <lastmod>2019-11-17T19:50:05-07:00</lastmod>
   </url>
   
   <url>
@@ -39,27 +74,12 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/recipes/</loc>
-    <lastmod>2019-11-03T13:04:18-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://recipes.lane.sh/recipes/sausage-pasta/</loc>
     <lastmod>2019-11-03T13:04:18-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/tags/</loc>
-    <lastmod>2019-11-03T13:04:18-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://recipes.lane.sh/recipes/garlic-aioli/</loc>
-    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/cuisine/Mediterranean/</loc>
     <lastmod>2019-11-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -199,11 +219,6 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/tags/rice/</loc>
-    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://recipes.lane.sh/recipes/belgian-waffles/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
   </url>
@@ -220,11 +235,6 @@
   
   <url>
     <loc>https://recipes.lane.sh/category/side/</loc>
-    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/tags/side/</loc>
     <lastmod>2018-05-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -424,22 +434,22 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/tags/Mexican/</loc>
-    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://recipes.lane.sh/cuisine/Mexican/</loc>
     <lastmod>2017-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/tags/Argentine/</loc>
-    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <loc>https://recipes.lane.sh/tags/Mexican/</loc>
+    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/cuisine/Argentine/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/Argentine/</loc>
     <lastmod>2017-03-16T00:00:00+00:00</lastmod>
   </url>
   
