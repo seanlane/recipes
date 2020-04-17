@@ -4,13 +4,33 @@
   
   <url>
     <loc>https://recipes.lane.sh/</loc>
-    <lastmod>2019-11-17T19:50:05-07:00</lastmod>
+    <lastmod>2020-04-17T14:33:18-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/category/</loc>
-    <lastmod>2019-11-17T19:50:05-07:00</lastmod>
+    <lastmod>2020-04-17T14:33:18-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/chipotle-chicken-wrap/</loc>
+    <lastmod>2020-04-17T14:33:18-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/Entree/</loc>
+    <lastmod>2020-04-17T14:33:18-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/</loc>
+    <lastmod>2020-04-17T14:33:18-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/</loc>
+    <lastmod>2020-04-17T14:33:18-06:00</lastmod>
   </url>
   
   <url>
@@ -20,11 +40,6 @@
   
   <url>
     <loc>https://recipes.lane.sh/cuisine/Mediterranean/</loc>
-    <lastmod>2019-11-17T19:50:05-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/</loc>
     <lastmod>2019-11-17T19:50:05-07:00</lastmod>
   </url>
   
@@ -44,18 +59,8 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/tags/</loc>
-    <lastmod>2019-11-17T19:50:05-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://recipes.lane.sh/recipes/tumeric-rice/</loc>
     <lastmod>2019-11-17T19:50:05-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/category/Entree/</loc>
-    <lastmod>2019-11-03T13:04:18-07:00</lastmod>
   </url>
   
   <url>
@@ -129,11 +134,6 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/tags/easy/</loc>
-    <lastmod>2019-07-07T13:57:59-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://recipes.lane.sh/recipes/quick-chicken-salad/</loc>
     <lastmod>2019-07-07T13:57:59-06:00</lastmod>
   </url>
@@ -186,6 +186,11 @@
   <url>
     <loc>https://recipes.lane.sh/recipes/spinach-chicken-stromboli/</loc>
     <lastmod>2019-05-27T20:16:48-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/Easy/</loc>
+    <lastmod>2019-05-08T16:59:36-06:00</lastmod>
   </url>
   
   <url>
@@ -434,22 +439,22 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/cuisine/Mexican/</loc>
-    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://recipes.lane.sh/tags/Mexican/</loc>
     <lastmod>2017-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/cuisine/Argentine/</loc>
-    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <loc>https://recipes.lane.sh/cuisine/Mexican/</loc>
+    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/tags/Argentine/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/Argentine/</loc>
     <lastmod>2017-03-16T00:00:00+00:00</lastmod>
   </url>
   
