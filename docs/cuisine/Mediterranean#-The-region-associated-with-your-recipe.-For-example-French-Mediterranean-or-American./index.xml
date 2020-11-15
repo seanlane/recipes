@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mediterranean# The region associated with your recipe. For example, &#34;French&#34;, Mediterranean&#34;, or &#34;American&#34;. on Lane Recipes</title>
@@ -6,7 +6,6 @@
     <description>Recent content in Mediterranean# The region associated with your recipe. For example, &#34;French&#34;, Mediterranean&#34;, or &#34;American&#34;. on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Nov 2019 13:04:18 -0700</lastBuildDate>
     
 	<atom:link href="https://recipes.lane.sh/cuisine/Mediterranean#-The-region-associated-with-your-recipe.-For-example-French-Mediterranean-or-American./index.xml" rel="self" type="application/rss+xml" />
     

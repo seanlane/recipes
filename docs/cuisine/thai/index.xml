@@ -1,15 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>thai on Lane Recipes</title>
-    <link>https://recipes.lane.sh/cuisine/thai/</link>
-    <description>Recent content in thai on Lane Recipes</description>
+    <title>Thai on Lane Recipes</title>
+    <link>https://recipes.lane.sh/cuisine/Thai/</link>
+    <description>Recent content in Thai on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://recipes.lane.sh/cuisine/thai/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/cuisine/Thai/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Red Thai Curry</title>
+      <link>https://recipes.lane.sh/recipes/red-thai-curry/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/red-thai-curry/</guid>
+      <description>This recipe is a bit of a mashup of the following sources:
+ http://makingthymeforhealth.com/one-pot-vegetable-thai-red-curry/ https://www.lettyskitchen.com/quick-and-easy-potatoes-in-coconut-red-curry-sauce/ https://www.epicurious.com/recipes/food/views/thai-chicken-curry-51140410 https://cookieandkate.com/2015/thai-red-curry-recipe/ https://damndelicious.net/2018/02/25/easy-thai-red-curry/  Here&amp;rsquo;s a photo of everything we used in the recipe (banana not necessary, though helpful for pre-meal snacking):</description>
+    </item>
     
     <item>
       <title>Thai Chicken</title>

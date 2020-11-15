@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Entree on Lane Recipes</title>
-    <link>https://recipes.lane.sh/category/Entree/</link>
-    <description>Recent content in Entree on Lane Recipes</description>
+    <title>entree on Lane Recipes</title>
+    <link>https://recipes.lane.sh/category/entree/</link>
+    <description>Recent content in entree on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Apr 2020 14:33:18 -0600</lastBuildDate>
     
-	<atom:link href="https://recipes.lane.sh/category/Entree/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/category/entree/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -31,6 +31,16 @@ You can also use Pork Sausage links, or a regular package of sausage as well. Dr
     </item>
     
     <item>
+      <title>Green Chicken Chili</title>
+      <link>https://recipes.lane.sh/recipes/green-chicken-chili/</link>
+      <pubDate>Wed, 16 Oct 2019 09:30:28 -0600</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/green-chicken-chili/</guid>
+      <description>I derived this recipe from combining a couple of recipes:
+ https://simpleasthatblog.com/instant-pot-green-chicken-chili/ https://www.allrecipes.com/recipe/263617/chef-johns-green-chicken-chili/  We didn&amp;rsquo;t have chipotle powder on hand, so I used paprika as a substitute, and skipped the chile powder that was also mentioned to keep the heat down. I&amp;rsquo;d describe it as not spicy for anyone who normally enjoys spicy foods, and mild for those who are sensitive to it. If you want to make it spicy, using spicier green salsas, keeping the jalapeño seeds, or using more/different peppers can all do that.</description>
+    </item>
+    
+    <item>
       <title>Pot Roast</title>
       <link>https://recipes.lane.sh/recipes/pot-roast/</link>
       <pubDate>Sat, 05 Oct 2019 13:46:01 -0600</pubDate>
@@ -46,6 +56,81 @@ You can also use Pork Sausage links, or a regular package of sausage as well. Dr
       
       <guid>https://recipes.lane.sh/recipes/instant-pot-butter-chicken/</guid>
       <description>Great one pot meal using the Instant Pot. We tend to do it with Coconut Milk, since that can store in the pantry.</description>
+    </item>
+    
+    <item>
+      <title>Chicken Empanda Filling</title>
+      <link>https://recipes.lane.sh/recipes/chicken-empanda-filling/</link>
+      <pubDate>Mon, 27 May 2019 20:46:16 -0600</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/chicken-empanda-filling/</guid>
+      <description>I&amp;rsquo;ve taken the liberty of modifying the recipe slightly, since we don&amp;rsquo;t usually have achiote or balsalmic vinegar. I replaced the former with some paprika and pepper (the Internet said that was okay) and the latter with some red or cider vinegar with sugar.
+If you need to cook shredded chicken relatively quickly:
+ Heat a pan to medium-high heat. Drizzle about 1-2 teaspoons of olive oil into the pan. Apply salt and pepper to two chicken breasts, then sear on both sides (about 3-5 minutes per side) Add about 1 cup chicken broth, reduce heat, and cover.</description>
+    </item>
+    
+    <item>
+      <title>Red Thai Curry</title>
+      <link>https://recipes.lane.sh/recipes/red-thai-curry/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/red-thai-curry/</guid>
+      <description>This recipe is a bit of a mashup of the following sources:
+ http://makingthymeforhealth.com/one-pot-vegetable-thai-red-curry/ https://www.lettyskitchen.com/quick-and-easy-potatoes-in-coconut-red-curry-sauce/ https://www.epicurious.com/recipes/food/views/thai-chicken-curry-51140410 https://cookieandkate.com/2015/thai-red-curry-recipe/ https://damndelicious.net/2018/02/25/easy-thai-red-curry/  Here&amp;rsquo;s a photo of everything we used in the recipe (banana not necessary, though helpful for pre-meal snacking):</description>
+    </item>
+    
+    <item>
+      <title>Quick and Easy Feijoada</title>
+      <link>https://recipes.lane.sh/recipes/quick-and-easy-feijoada/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/quick-and-easy-feijoada/</guid>
+      <description>Hearkens back to the mission. Note that I&amp;rsquo;ve modified this recipe a bit for personal preference. At the end, thicken with a cornstarch slurry as needed. Optionally use creole seasoning or similar instead of salt to add some further spice. Goes great with some sriracha or other hot sauce too.</description>
+    </item>
+    
+    <item>
+      <title>Spaghetti Sauce</title>
+      <link>https://recipes.lane.sh/recipes/spaghetti-sauce/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/spaghetti-sauce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lemon Garlic Asparagus Pasta</title>
+      <link>https://recipes.lane.sh/recipes/lemon-garlic-asparagus-pasta/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/lemon-garlic-asparagus-pasta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arroz Chaufa</title>
+      <link>https://recipes.lane.sh/recipes/arroz-chaufa/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/arroz-chaufa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Fried Pizza &#39;Donuts&#39;</title>
+      <link>https://recipes.lane.sh/recipes/deep-fried-pizza-doughnuts/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/deep-fried-pizza-doughnuts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranch Chicken Rollups</title>
+      <link>https://recipes.lane.sh/recipes/ranch-chicken-rollups/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/ranch-chicken-rollups/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,15 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>breakfast on Lane Recipes</title>
-    <link>https://recipes.lane.sh/tags/breakfast/</link>
-    <description>Recent content in breakfast on Lane Recipes</description>
+    <title>Breakfast on Lane Recipes</title>
+    <link>https://recipes.lane.sh/tags/Breakfast/</link>
+    <description>Recent content in Breakfast on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://recipes.lane.sh/tags/breakfast/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/tags/Breakfast/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Belgian Waffles</title>
+      <link>https://recipes.lane.sh/recipes/belgian-waffles/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/belgian-waffles/</guid>
+      <description>These came out pretty good. Depending on how well your waffle iron nonstick coating works, you may not need to oil the iron.</description>
+    </item>
     
     <item>
       <title>French Toast</title>
@@ -17,6 +26,15 @@
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://recipes.lane.sh/recipes/french-toast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easy Pancakes</title>
+      <link>https://recipes.lane.sh/recipes/easy-pancakes/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/easy-pancakes/</guid>
       <description></description>
     </item>
     

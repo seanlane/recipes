@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mexican on Lane Recipes</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Mexican on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2020 10:08:02 -0500</lastBuildDate>
     
 	<atom:link href="https://recipes.lane.sh/cuisine/Mexican/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Green Chile Chicken Enchiladas</title>
+      <link>https://recipes.lane.sh/recipes/green-chile-chicken-enchiladas/</link>
+      <pubDate>Sun, 15 Nov 2020 10:08:02 -0500</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/green-chile-chicken-enchiladas/</guid>
+      <description>The original recipe called for keeping the sour cream separate, and then spooning or squirting it into the tortilla next to the chicken mixture composed of the remaining ingredients. But that seems harder, so we just mix it all together instead.</description>
+    </item>
     
     <item>
       <title>Grilled Chicken and Avocado Street Tacos</title>

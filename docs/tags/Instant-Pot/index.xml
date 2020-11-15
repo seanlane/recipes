@@ -1,15 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Instant Pot on Lane Recipes</title>
-    <link>https://recipes.lane.sh/tags/Instant-Pot/</link>
-    <description>Recent content in Instant Pot on Lane Recipes</description>
+    <title>instant pot on Lane Recipes</title>
+    <link>https://recipes.lane.sh/tags/instant-pot/</link>
+    <description>Recent content in instant pot on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Sep 2019 20:17:55 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2019 19:50:05 -0700</lastBuildDate>
     
-	<atom:link href="https://recipes.lane.sh/tags/Instant-Pot/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/tags/instant-pot/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tumeric Rice</title>
+      <link>https://recipes.lane.sh/recipes/tumeric-rice/</link>
+      <pubDate>Sun, 17 Nov 2019 19:50:05 -0700</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/tumeric-rice/</guid>
+      <description>This recipe ended up being a mix of the following couple that I found:
+ https://cooking.nytimes.com/recipes/4010-turmeric-rice https://www.realfoodwithdana.com/turmeric-garlic-instant-pot-rice/  </description>
+    </item>
+    
+    <item>
+      <title>Green Chicken Chili</title>
+      <link>https://recipes.lane.sh/recipes/green-chicken-chili/</link>
+      <pubDate>Wed, 16 Oct 2019 09:30:28 -0600</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/green-chicken-chili/</guid>
+      <description>I derived this recipe from combining a couple of recipes:
+ https://simpleasthatblog.com/instant-pot-green-chicken-chili/ https://www.allrecipes.com/recipe/263617/chef-johns-green-chicken-chili/  We didn&amp;rsquo;t have chipotle powder on hand, so I used paprika as a substitute, and skipped the chile powder that was also mentioned to keep the heat down. I&amp;rsquo;d describe it as not spicy for anyone who normally enjoys spicy foods, and mild for those who are sensitive to it. If you want to make it spicy, using spicier green salsas, keeping the jalapeño seeds, or using more/different peppers can all do that.</description>
+    </item>
     
     <item>
       <title>Instant Pot Butter Chicken</title>

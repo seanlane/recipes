@@ -1,15 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Slow Cooker on Lane Recipes</title>
-    <link>https://recipes.lane.sh/tags/Slow-Cooker/</link>
-    <description>Recent content in Slow Cooker on Lane Recipes</description>
+    <title>slow cooker on Lane Recipes</title>
+    <link>https://recipes.lane.sh/tags/slow-cooker/</link>
+    <description>Recent content in slow cooker on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Jan 2019 13:51:51 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2019 13:46:01 -0600</lastBuildDate>
     
-	<atom:link href="https://recipes.lane.sh/tags/Slow-Cooker/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/tags/slow-cooker/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pot Roast</title>
+      <link>https://recipes.lane.sh/recipes/pot-roast/</link>
+      <pubDate>Sat, 05 Oct 2019 13:46:01 -0600</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/pot-roast/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mississippi Pot Roast</title>
@@ -26,6 +35,53 @@
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://recipes.lane.sh/recipes/faux-jambalaya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quick and Easy Feijoada</title>
+      <link>https://recipes.lane.sh/recipes/quick-and-easy-feijoada/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/quick-and-easy-feijoada/</guid>
+      <description>Hearkens back to the mission. Note that I&amp;rsquo;ve modified this recipe a bit for personal preference. At the end, thicken with a cornstarch slurry as needed. Optionally use creole seasoning or similar instead of salt to add some further spice. Goes great with some sriracha or other hot sauce too.</description>
+    </item>
+    
+    <item>
+      <title>Spaghetti Sauce</title>
+      <link>https://recipes.lane.sh/recipes/spaghetti-sauce/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/spaghetti-sauce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crock Pot Red Beans and Rice</title>
+      <link>https://recipes.lane.sh/recipes/crock-pot-red-beans-and-rice/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/crock-pot-red-beans-and-rice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easy Crockpot Sriracha Honey Chicken Wings</title>
+      <link>https://recipes.lane.sh/recipes/easy-crockpot-sriracha-honey-chicken-wings/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/easy-crockpot-sriracha-honey-chicken-wings/</guid>
+      <description>Additional Notes:
+You can use fresh wings. Cook time would be 3-4 hours on low or 1 to 2 hours on high. Additionally, when using fresh your sauce will cook quicker. Approximately 3-5 minutes.
+Instead of cooking the sauce down and broiling it you can mix up 2 tablespoons corn starch and 2 tablespoons water in a resealable container and shake it really well. Pour slurry into crockpot then cook an additional 30 minutes on high.</description>
+    </item>
+    
+    <item>
+      <title>Kielbasa and Cabbage</title>
+      <link>https://recipes.lane.sh/recipes/kielbasa-and-cabbage/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/kielbasa-and-cabbage/</guid>
       <description></description>
     </item>
     

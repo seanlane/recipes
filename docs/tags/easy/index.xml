@@ -1,15 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Easy on Lane Recipes</title>
-    <link>https://recipes.lane.sh/tags/Easy/</link>
-    <description>Recent content in Easy on Lane Recipes</description>
+    <title>easy on Lane Recipes</title>
+    <link>https://recipes.lane.sh/tags/easy/</link>
+    <description>Recent content in easy on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 May 2019 16:59:36 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2020 14:33:18 -0600</lastBuildDate>
     
-	<atom:link href="https://recipes.lane.sh/tags/Easy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recipes.lane.sh/tags/easy/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chipotle Chicken Wrap</title>
+      <link>https://recipes.lane.sh/recipes/chipotle-chicken-wrap/</link>
+      <pubDate>Fri, 17 Apr 2020 14:33:18 -0600</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/chipotle-chicken-wrap/</guid>
+      <description>We often skip the tomato and lettuce, and use cheddar cheese, depending what we have on hand.</description>
+    </item>
+    
+    <item>
+      <title>Quick Chicken Salad</title>
+      <link>https://recipes.lane.sh/recipes/quick-chicken-salad/</link>
+      <pubDate>Sun, 07 Jul 2019 13:57:59 -0600</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/quick-chicken-salad/</guid>
+      <description>Note that the only true requirements are probably the chicken, mayo, salt, and pepper, in case you happen to be missing certain things.</description>
+    </item>
+    
+    <item>
+      <title>Spinach Chicken Stromboli</title>
+      <link>https://recipes.lane.sh/recipes/spinach-chicken-stromboli/</link>
+      <pubDate>Mon, 27 May 2019 20:16:48 -0600</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/spinach-chicken-stromboli/</guid>
+      <description>Be careful to avoid making the dough too thin in the center, otherwise it won&amp;rsquo;t be strong enough to hold the pieces together while dipping. This would probably be pretty awesome with some Pesto mixed into the toppings as well, but that&amp;rsquo;s future scientific research to perform.
+If you need to cook shredded chicken relatively quickly:
+ Heat a pan to medium-high heat. Drizzle about 1-2 teaspoons of olive oil into the pan.</description>
+    </item>
     
     <item>
       <title>Sausage and Veggies</title>
