@@ -4,18 +4,83 @@
   
   <url>
     <loc>https://recipes.lane.sh/</loc>
-    <lastmod>2020-11-15T10:08:02-05:00</lastmod>
+    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://recipes.lane.sh/cuisine/american/</loc>
+    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/Appetizer/</loc>
+    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/appetizer/</loc>
+    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://recipes.lane.sh/category/</loc>
-    <lastmod>2020-11-15T10:08:02-05:00</lastmod>
+    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/creamy-garlic-chicken/</loc>
+    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/cuisine/</loc>
-    <lastmod>2020-11-15T10:08:02-05:00</lastmod>
+    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/category/entree/</loc>
+    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/garden-salsa/</loc>
+    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/garlic/</loc>
+    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/heavy/</loc>
+    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/Mexican/</loc>
+    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/pasta/</loc>
+    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/</loc>
+    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/snack/</loc>
+    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/</loc>
+    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
   </url>
   
   <url>
@@ -34,32 +99,12 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/cuisine/Mexican/</loc>
-    <lastmod>2020-11-15T10:08:02-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/recipes/</loc>
-    <lastmod>2020-11-15T10:08:02-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/tags/</loc>
-    <lastmod>2020-11-15T10:08:02-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://recipes.lane.sh/recipes/chipotle-chicken-wrap/</loc>
     <lastmod>2020-04-17T14:33:18-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://recipes.lane.sh/tags/easy/</loc>
-    <lastmod>2020-04-17T14:33:18-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/category/entree/</loc>
     <lastmod>2020-04-17T14:33:18-06:00</lastmod>
   </url>
   
@@ -99,11 +144,6 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/tags/pasta/</loc>
-    <lastmod>2019-11-03T13:04:18-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://recipes.lane.sh/recipes/sausage-pasta/</loc>
     <lastmod>2019-11-03T13:04:18-07:00</lastmod>
   </url>
@@ -131,11 +171,6 @@
   <url>
     <loc>https://recipes.lane.sh/cuisine/Texmex/</loc>
     <lastmod>2019-10-16T09:30:28-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/cuisine/american/</loc>
-    <lastmod>2019-10-05T13:46:01-06:00</lastmod>
   </url>
   
   <url>
@@ -600,11 +635,6 @@
   
   <url>
     <loc>https://recipes.lane.sh/components/skinny-fettuccine-alfredo/</loc>
-    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/tags/snack/</loc>
     <lastmod>2017-03-16T00:00:00+00:00</lastmod>
   </url>
   

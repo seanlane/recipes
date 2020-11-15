@@ -6,10 +6,19 @@
     <description>Recent content in snack on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2020 10:17:10 -0500</lastBuildDate>
     
 	<atom:link href="https://recipes.lane.sh/tags/snack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Garden Salsa</title>
+      <link>https://recipes.lane.sh/recipes/garden-salsa/</link>
+      <pubDate>Sun, 15 Nov 2020 10:17:10 -0500</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/garden-salsa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Fried Pizza &#39;Donuts&#39;</title>

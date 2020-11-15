@@ -6,15 +6,24 @@
     <description>Recent content in Cuisine on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2020 10:08:02 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2020 10:17:10 -0500</lastBuildDate>
     
 	<atom:link href="https://recipes.lane.sh/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>american</title>
+      <link>https://recipes.lane.sh/cuisine/american/</link>
+      <pubDate>Sun, 15 Nov 2020 10:17:10 -0500</pubDate>
+      
+      <guid>https://recipes.lane.sh/cuisine/american/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mexican</title>
       <link>https://recipes.lane.sh/cuisine/Mexican/</link>
-      <pubDate>Sun, 15 Nov 2020 10:08:02 -0500</pubDate>
+      <pubDate>Sun, 15 Nov 2020 10:17:10 -0500</pubDate>
       
       <guid>https://recipes.lane.sh/cuisine/Mexican/</guid>
       <description></description>
@@ -35,15 +44,6 @@
       <pubDate>Wed, 16 Oct 2019 09:30:28 -0600</pubDate>
       
       <guid>https://recipes.lane.sh/cuisine/Texmex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>american</title>
-      <link>https://recipes.lane.sh/cuisine/american/</link>
-      <pubDate>Sat, 05 Oct 2019 13:46:01 -0600</pubDate>
-      
-      <guid>https://recipes.lane.sh/cuisine/american/</guid>
       <description></description>
     </item>
     

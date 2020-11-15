@@ -6,10 +6,55 @@
     <description>Recent content in Tags on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2020 10:08:02 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2020 10:17:10 -0500</lastBuildDate>
     
 	<atom:link href="https://recipes.lane.sh/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>appetizer</title>
+      <link>https://recipes.lane.sh/tags/appetizer/</link>
+      <pubDate>Sun, 15 Nov 2020 10:17:10 -0500</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/appetizer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>garlic</title>
+      <link>https://recipes.lane.sh/tags/garlic/</link>
+      <pubDate>Sun, 15 Nov 2020 10:17:10 -0500</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/garlic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>heavy</title>
+      <link>https://recipes.lane.sh/tags/heavy/</link>
+      <pubDate>Sun, 15 Nov 2020 10:17:10 -0500</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/heavy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pasta</title>
+      <link>https://recipes.lane.sh/tags/pasta/</link>
+      <pubDate>Sun, 15 Nov 2020 10:17:10 -0500</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/pasta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>snack</title>
+      <link>https://recipes.lane.sh/tags/snack/</link>
+      <pubDate>Sun, 15 Nov 2020 10:17:10 -0500</pubDate>
+      
+      <guid>https://recipes.lane.sh/tags/snack/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mexican</title>
@@ -62,15 +107,6 @@
       <pubDate>Sun, 03 Nov 2019 13:04:18 -0700</pubDate>
       
       <guid>https://recipes.lane.sh/tags/instantpot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pasta</title>
-      <link>https://recipes.lane.sh/tags/pasta/</link>
-      <pubDate>Sun, 03 Nov 2019 13:04:18 -0700</pubDate>
-      
-      <guid>https://recipes.lane.sh/tags/pasta/</guid>
       <description></description>
     </item>
     
@@ -278,15 +314,6 @@
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://recipes.lane.sh/tags/seafood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>snack</title>
-      <link>https://recipes.lane.sh/tags/snack/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://recipes.lane.sh/tags/snack/</guid>
       <description></description>
     </item>
     

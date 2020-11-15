@@ -6,10 +6,19 @@
     <description>Recent content in pasta on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Nov 2019 13:04:18 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2020 10:17:10 -0500</lastBuildDate>
     
 	<atom:link href="https://recipes.lane.sh/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Creamy Garlic Chicken</title>
+      <link>https://recipes.lane.sh/recipes/creamy-garlic-chicken/</link>
+      <pubDate>Sun, 15 Nov 2020 10:17:10 -0500</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/creamy-garlic-chicken/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sausage Pasta</title>

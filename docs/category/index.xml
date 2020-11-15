@@ -6,10 +6,28 @@
     <description>Recent content in Category on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2020 10:08:02 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2020 10:17:10 -0500</lastBuildDate>
     
 	<atom:link href="https://recipes.lane.sh/category/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Appetizer</title>
+      <link>https://recipes.lane.sh/category/Appetizer/</link>
+      <pubDate>Sun, 15 Nov 2020 10:17:10 -0500</pubDate>
+      
+      <guid>https://recipes.lane.sh/category/Appetizer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entree</title>
+      <link>https://recipes.lane.sh/category/entree/</link>
+      <pubDate>Sun, 15 Nov 2020 10:17:10 -0500</pubDate>
+      
+      <guid>https://recipes.lane.sh/category/entree/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>dinner</title>
@@ -17,15 +35,6 @@
       <pubDate>Sun, 15 Nov 2020 10:08:02 -0500</pubDate>
       
       <guid>https://recipes.lane.sh/category/dinner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>entree</title>
-      <link>https://recipes.lane.sh/category/entree/</link>
-      <pubDate>Fri, 17 Apr 2020 14:33:18 -0600</pubDate>
-      
-      <guid>https://recipes.lane.sh/category/entree/</guid>
       <description></description>
     </item>
     

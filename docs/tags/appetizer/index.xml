@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>appetizer on Lane Recipes</title>
+    <link>https://recipes.lane.sh/tags/appetizer/</link>
+    <description>Recent content in appetizer on Lane Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Nov 2020 10:17:10 -0500</lastBuildDate>
+    
+	<atom:link href="https://recipes.lane.sh/tags/appetizer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Garden Salsa</title>
+      <link>https://recipes.lane.sh/recipes/garden-salsa/</link>
+      <pubDate>Sun, 15 Nov 2020 10:17:10 -0500</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/garden-salsa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
