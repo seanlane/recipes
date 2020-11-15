@@ -1,9 +1,8 @@
 ---
 layout: recipe
 date: 2020-11-15T10:17:10-05:00
-draft: true    
 title:  "Creamy Garlic Chicken" # The title of your awesome recipe
-image: creamy-garlic-chicke.jpg # Name of image in recipe bundle
+image: creamy-garlic-chicken.jpg # Name of image in recipe bundle
 imagecredit: https://cafedelites.com/creamy-garlic-chicken-breasts/ # URL to image source page, website, or creator
 YouTubeID: DaeQ2AKp00k # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: Karina # Name of the recipe/article author

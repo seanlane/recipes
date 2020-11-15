@@ -1,7 +1,6 @@
 ---
 layout: recipe
 date: 2020-11-15T10:17:10-05:00
-draft: true    
 title:  "Garden Salsa" # The title of your awesome recipe
 image: # Name of image in recipe bundle
 imagecredit: # URL to image source page, website, or creator
