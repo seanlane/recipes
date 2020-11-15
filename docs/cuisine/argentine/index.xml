@@ -6,11 +6,7 @@
     <description>Recent content in Argentine on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Mar 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://recipes.lane.sh/cuisine/Argentine/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 16 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://recipes.lane.sh/cuisine/Argentine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chimichurri</title>
       <link>https://recipes.lane.sh/recipes/chimichurri/</link>

@@ -4,8 +4,58 @@
   
   <url>
     <loc>https://recipes.lane.sh/</loc>
-    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
+    <lastmod>2020-11-15T16:26:02-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/</loc>
+    <lastmod>2020-11-15T16:26:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/cuisine/Mexican/</loc>
+    <lastmod>2020-11-15T16:26:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/mexican/</loc>
+    <lastmod>2020-11-15T16:26:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/mexican-pinto-beans-and-rice/</loc>
+    <lastmod>2020-11-15T16:26:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/recipes/</loc>
+    <lastmod>2020-11-15T16:26:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/side/</loc>
+    <lastmod>2020-11-15T16:26:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/tags/</loc>
+    <lastmod>2020-11-15T16:26:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/</loc>
+    <lastmod>2020-11-15T16:18:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/mexican-pinto-beans/</loc>
+    <lastmod>2020-11-15T16:18:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recipes.lane.sh/components/mexican-rice/</loc>
+    <lastmod>2020-11-15T16:18:37-05:00</lastmod>
   </url>
   
   <url>
@@ -34,11 +84,6 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/cuisine/</loc>
-    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://recipes.lane.sh/category/entree/</loc>
     <lastmod>2020-11-15T10:17:10-05:00</lastmod>
   </url>
@@ -59,27 +104,12 @@
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/cuisine/Mexican/</loc>
-    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://recipes.lane.sh/tags/pasta/</loc>
     <lastmod>2020-11-15T10:17:10-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://recipes.lane.sh/recipes/</loc>
-    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://recipes.lane.sh/tags/snack/</loc>
-    <lastmod>2020-11-15T10:17:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/tags/</loc>
     <lastmod>2020-11-15T10:17:10-05:00</lastmod>
   </url>
   
@@ -90,11 +120,6 @@
   
   <url>
     <loc>https://recipes.lane.sh/recipes/green-chile-chicken-enchiladas/</loc>
-    <lastmod>2020-11-15T10:08:02-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/tags/Mexican/</loc>
     <lastmod>2020-11-15T10:08:02-05:00</lastmod>
   </url>
   
@@ -120,11 +145,6 @@
   
   <url>
     <loc>https://recipes.lane.sh/tags/rice/</loc>
-    <lastmod>2019-11-17T19:50:05-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/tags/side/</loc>
     <lastmod>2019-11-17T19:50:05-07:00</lastmod>
   </url>
   
@@ -341,11 +361,6 @@
   <url>
     <loc>https://recipes.lane.sh/recipes/faux-jambalaya/</loc>
     <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recipes.lane.sh/components/</loc>
-    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -6,10 +6,15 @@
     <description>Recent content in Recipes on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2020 10:17:10 -0500</lastBuildDate>
-    
-	<atom:link href="https://recipes.lane.sh/recipes/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 15 Nov 2020 16:26:02 -0500</lastBuildDate><atom:link href="https://recipes.lane.sh/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mexican Pinto Beans and Rice</title>
+      <link>https://recipes.lane.sh/recipes/mexican-pinto-beans-and-rice/</link>
+      <pubDate>Sun, 15 Nov 2020 16:26:02 -0500</pubDate>
+      
+      <guid>https://recipes.lane.sh/recipes/mexican-pinto-beans-and-rice/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Creamy Garlic Chicken</title>
@@ -297,7 +302,7 @@ If you need to cook shredded chicken relatively quickly:
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://recipes.lane.sh/recipes/red-berry-tart/</guid>
-      <description>A favorite when I go to BBQs (parties, hackathons, your folks&amp;rsquo; place), this red berry tart is fairly easy to make and packs a huge wow factor.</description>
+      <description>A favorite when I go to BBQs (parties, hackathons, your folks&#39; place), this red berry tart is fairly easy to make and packs a huge wow factor.</description>
     </item>
     
     <item>

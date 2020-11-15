@@ -6,18 +6,14 @@
     <description>Recent content in fruit on Lane Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Sep 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://recipes.lane.sh/tags/fruit/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 17 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://recipes.lane.sh/tags/fruit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Red Berry Tart</title>
       <link>https://recipes.lane.sh/recipes/red-berry-tart/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://recipes.lane.sh/recipes/red-berry-tart/</guid>
-      <description>A favorite when I go to BBQs (parties, hackathons, your folks&amp;rsquo; place), this red berry tart is fairly easy to make and packs a huge wow factor.</description>
+      <description>A favorite when I go to BBQs (parties, hackathons, your folks&#39; place), this red berry tart is fairly easy to make and packs a huge wow factor.</description>
     </item>
     
   </channel>
