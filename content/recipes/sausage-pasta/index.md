@@ -8,7 +8,7 @@ authorURL: https://www.rachelcooks.com/about-me/ # URL of their home website
 sourceName: Rachel Cooks # Name of the source website
 sourceURL: https://www.rachelcooks.com/2018/03/12/instant-pot-pasta-sausage-spinach/ # Actual URL of the recipe itself
 category: Entree # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
-cuisine: Mediterranean# The region associated with your recipe. For example, "French", Mediterranean", or "American".
+cuisine: Mediterranean # The region associated with your recipe. For example, "French", Mediterranean", or "American".
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - pasta
   - instantpot
